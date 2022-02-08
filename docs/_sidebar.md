@@ -1,1 +1,2 @@
-- [**Exemplo**](./README.md)
+- [**Cronograma**](./cronograma.md)
+- [Planejamento](./planejamento.md)
