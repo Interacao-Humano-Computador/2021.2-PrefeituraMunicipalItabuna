@@ -1,2 +1,4 @@
-- [**Cronograma**](./cronograma.md)
-- [Planejamento](./planejamento.md)
+- [**Cronograma**](../pages/cronograma.md)
+- [Planejamento](../pages/planejamento.md)
+- [Processo Design](../pages/processo_design.md)
+- [Apresentações](../pages/apresentacoes.md)
