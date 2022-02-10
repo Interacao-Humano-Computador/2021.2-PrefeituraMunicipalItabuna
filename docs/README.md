@@ -2,7 +2,7 @@
 
 Repositório para desenvolvimento do projeto da disciplina Interação Humano-Computador.
 
-<img src="../assets/imagens/BrasaoItabuna.png" alt="Brasão Itabuna" width="250px">  
+<img src="./assets/imagens/BrasaoItabuna.png" alt="Brasão Itabuna" width="250px">  
 
 ## Sobre o projeto
 
@@ -23,14 +23,14 @@ Estes está destinado ao desenvolvimento da documentação do projeto final da d
 |     |     | 
 | :-: | :- |
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="100"> | O Github é uma excelente ferramenta para controle de versionamento e armazenamento dos arquivos de documentação. |
-| <img src="../assets/imagens/telegram.png" width="100"> | O Telegram é um serviço de mensagens instantâneas que foi escolhido como principal forma de comunicação assíncrona da equipe. |
-| <img src="../assets/imagens/docsify.svg" width="100"> | O Docsify é uma ferramenta utilizada para construção da Wiki a partir de arquivos MarkDown. |
-| <img src="../assets/imagens/youtube.svg" width="100"> | Youtube foi a ferramenta de streaming de videos escolhida pela equipe para hospedar as gravações relativas a cada uma das entregas. |
-| <img src="../assets/imagens/figma.svg" width="100"> | Figma é um editor gráfico e será utilizado no projeto para realizar a prototipagem de interfaces gráficas. |
-| <img src="../assets/imagens/vscode.svg" width="100"> | Vs Code é um editor de texto da Microsoft e será utilizado para realizar a documentação do projeto devido a sua integração com o GitHub. |
-| <img src="../assets/imagens/teams.svg" width="100"> | Microsoft Teams é uma plataforma de comunicação em equipe e foi a ferramenta escolhida para a gravação dos vídeos das apresentações. |
-| <img src="../assets/imagens/canva.svg" width="100"> | Canva é uma ferramenta de criação de slides foi escolhida pela equipe para montar as apresentações de cada uma das entregas. |
-| <img src="../assets/imagens/discord.svg" width="100"> | Discord é um aplicativo de comunicação instantânea e será utilizado para a comunicação síncrona da equipe. |
+| <img src="./assets/imagens/telegram.png" width="100"> | O Telegram é um serviço de mensagens instantâneas que foi escolhido como principal forma de comunicação assíncrona da equipe. |
+| <img src="./assets/imagens/docsify.svg" width="100"> | O Docsify é uma ferramenta utilizada para construção da Wiki a partir de arquivos MarkDown. |
+| <img src="./assets/imagens/youtube.svg" width="100"> | Youtube foi a ferramenta de streaming de videos escolhida pela equipe para hospedar as gravações relativas a cada uma das entregas. |
+| <img src="./assets/imagens/figma.svg" width="100"> | Figma é um editor gráfico e será utilizado no projeto para realizar a prototipagem de interfaces gráficas. |
+| <img src="./assets/imagens/vscode.svg" width="100"> | Vs Code é um editor de texto da Microsoft e será utilizado para realizar a documentação do projeto devido a sua integração com o GitHub. |
+| <img src="./assets/imagens/teams.svg" width="100"> | Microsoft Teams é uma plataforma de comunicação em equipe e foi a ferramenta escolhida para a gravação dos vídeos das apresentações. |
+| <img src="./assets/imagens/canva.svg" width="100"> | Canva é uma ferramenta de criação de slides foi escolhida pela equipe para montar as apresentações de cada uma das entregas. |
+| <img src="./assets/imagens/discord.svg" width="100"> | Discord é um aplicativo de comunicação instantânea e será utilizado para a comunicação síncrona da equipe. |
 
 ## Versionamento 
 
@@ -39,3 +39,4 @@ Versão |  O que foi inserido? | data |
 0.1| Criação da Wiki |07/02/2022|
 0.2| Inicio Documentação do README |08/02/2022|
 0.3| Estruturação de Páginas e inserção do cronograma |10/02/2022|
+0.4| Lista de sites avaliados |10/02/2022|
