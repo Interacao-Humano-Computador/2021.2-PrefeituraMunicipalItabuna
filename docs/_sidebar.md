@@ -1,4 +1,4 @@
-- [**Cronograma**](../pages/cronograma.md)
-- [Planejamento](../pages/planejamento.md)
-- [Processo Design](../pages/processo_design.md)
-- [Apresentações](../pages/apresentacoes.md)
+- [**Cronograma**](./pages/cronograma.md)
+- [Sites Avaliados](./pages/sitesavaliados.md)
+- [Processo Design](./pages/processo_design.md)
+- [Apresentações](./pages/apresentacoes.md)
