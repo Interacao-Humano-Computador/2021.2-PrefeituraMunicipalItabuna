@@ -1,9 +1,3 @@
-# Prefeitura de Itabuna-BA
-
-Repositório para desenvolvimento do projeto da disciplina Interação Humano-Computador.
-
-<img src="./assets/imagens/BrasaoItabuna.png" alt="Brasão Itabuna" width="250px">  
-
 ## Sobre o projeto
 
 Estes está destinado ao desenvolvimento da documentação do projeto final da disciplina de Interação Humano-Computador, ministrada pelo professor André Barros de Sales, na Universidade de Brasília - Gama, durante o período 2021.2
