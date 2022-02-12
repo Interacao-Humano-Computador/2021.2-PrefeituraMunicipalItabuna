@@ -26,11 +26,3 @@ Estes está destinado ao desenvolvimento da documentação do projeto final da d
 | <img src="./assets/imagens/canva.svg" width="100"> | Canva é uma ferramenta de criação de slides foi escolhida pela equipe para montar as apresentações de cada uma das entregas. |
 | <img src="./assets/imagens/discord.svg" width="100"> | Discord é um aplicativo de comunicação instantânea e será utilizado para a comunicação síncrona da equipe. |
 
-## Versionamento 
-
-Versão |  O que foi inserido? | data |
----- |----- | ----| 
-0.1| Criação da Wiki |07/02/2022|
-0.2| Inicio Documentação do README |08/02/2022|
-0.3| Estruturação de Páginas e inserção do cronograma |10/02/2022|
-0.4| Lista de sites avaliados |10/02/2022|
