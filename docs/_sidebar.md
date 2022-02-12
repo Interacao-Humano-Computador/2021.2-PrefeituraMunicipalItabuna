@@ -1,4 +1,5 @@
-- [**Cronograma**](/pages/cronograma.md)
+- [Cronograma](/pages/cronograma.md)
 - [Sites Avaliados](/pages/sitesavaliados.md)
 - [Processo Design](/pages/processo_design.md)
 - [Apresentações](/pages/apresentacoes.md)
+- [Versionamento](/pages/versionamento.md)

@@ -16,4 +16,76 @@ Site | Sugestão de
 
 # Site escolhido
 
+<img src="./assets/imagens/PrefeituraDeItabuna.png" width="900px">
+
 [Prefeitura de Itabuna](http://www.itabuna.ba.gov.br) por Vinicius Lima
+
+## Introdução
+
+O site da [Prefeitura de Itabuna](http://www.itabuna.ba.gov.br) tem papel informacional à população local. Nele são dispostos dados e notícias sobre assuntos relacionados a gestão pública e as decisões administrativas da cidade. Além disso, pela página, é possível abrir solicitações de serviços a prefeitura, ter contanto com a ovidoria de cidade e ter acesso aos serviços da secretária da fazenda da localidade.
+
+A página traz muitas funcionalidades úteis a população, mas, devido aos defeitos em sua interface, sua utilização pelos usuários finais é estremamente prejudicada.
+
+## Objetivos 
+
+Dentre os objetivos estabelecidos temos a verificação da acessibilidade e usabilidade da página. Uma vez que seu intuito é de servir a população, o site deve ser o mais acessível possível. A aprendizagem do sistema deve ser simples de forma a abranger uma gama maior de faixas econômicas e niveis de escolaridade da população. Por esses fatores a interface deve ser de simples entendimento e mais intuitiva possivel.
+
+## Método de Avaliação
+
+Para a avaliação da página da prefeitura de Itabuna foi escolhido o método da avaliação heurística. A avaliação heurística dá-se por um método de avaliação, com característica de método de inspeção (proposto como alternativa de avaliação rápida e barata, quando comparada a métodos empíricos). Foi criado por para encontrar problemas de usabilidade durante o processo de design iterativo. O método sugere a verificação/inspeção sistemática de interface, com o objetivo de mapear problemas que prejudiquem a usabilidade.
+
+## Avaliação
+
+### Perguntas a serem respondidas
+
+Perguntas elaboradas "Problemas na interação e na interface":
+-   Que parte da interface e da interação o deixa insatisfeito?
+-   Que parte da interface o desmotiva a explorar novas funcionalidades?
+-   O usuário consegue operar o sistema?
+-   Ele atingiu seu objetivo? Com quanta eficiência? Em quanto tempo? Após cometer quantos erros?
+
+Perguntas elaboradas "ideias e alternativas de design":
+
+-   Qual das alternativas é a mais eficiente? Mais fácil de aprender?
+-   Qual delas os usuários preferem? Por quê?
+
+### Avaliação Heurística
+<figure align='center'>
+<img src="./assets/imagens/Barra.png" width="700px">
+<br>
+<figcaption>Figura 1 – Barra de Navegação.</a></figcaption>
+</figure>
+
+<br>
+<figure align='center'>
+<img src="./assets/imagens/atalhos.png" width="300px">
+<br>
+<figcaption>Figura 2 – Atalhos.</a></figcaption>
+</figure>
+
+<br>
+<img src="./assets/imagens/consistenciaTabela1.png" width="700px">
+<br><br>
+<img src="./assets/imagens/tabelaEstetica1.png" width="700px">
+<br><br>
+<img src="./assets/imagens/ajudaTabela.png" width="700px">
+
+
+### Perguntas a serem respondidas
+
+Perguntas elaboradas "Problemas na interação e na interface":
+-   Que parte da interface e da interação o deixa insatisfeito?
+-   Que parte da interface o desmotiva a explorar novas funcionalidades?
+-   O usuário consegue operar o sistema?
+-   Ele atingiu seu objetivo? Com quanta eficiência? Em quanto tempo? Após cometer quantos erros?
+
+Perguntas elaboradas "ideias e alternativas de design":
+
+-   Qual das alternativas é a mais eficiente? Mais fácil de aprender?
+-   Qual delas os usuários preferem? Por quê?
+
+
+## Referências Bibliográficas
+
+    Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021)
+    Interação Humano-Computador e Experiência do usuário. Autopublicação.
