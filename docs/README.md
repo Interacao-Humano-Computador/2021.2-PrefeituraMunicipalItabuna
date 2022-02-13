@@ -10,7 +10,7 @@ Estes está destinado ao desenvolvimento da documentação do projeto final da d
 <img src="https://github.com/caiobsantos.png" alt="Caio Santos" width="100">        | Caio Santos | [@caiobsantos](https://github.com/caiobsantos) | 170007413 |
 <img src="https://github.com/ciro-c.png" alt="Ciro Costa" width="100">              | Ciro Costa de Araujo | [@ciro-c](https://github.com/ciro-c) | 190011611 |
 <img src="https://github.com/vinelime.png" alt="Vinicius Lima" width="100">         | Vinicius Lima | [@vinelime](https://github.com/vinelime) | 180028839 |
-<img src="https://github.com/viniciusroriz.png" alt="Vinicius Roriz" width="100">   | Vinícius Roriz | [@viniciusroriz](https://github.com/viniciusroriz) | 190020814|
+<img src="https://github.com/viniciusroriz.png" alt="Vinicius Roriz" width="100">   | Vinícius Roriz | [@viniciusroriz](https://github.com/viniciusroriz) | 190020814 |
 
 
 ## Ferramentas
