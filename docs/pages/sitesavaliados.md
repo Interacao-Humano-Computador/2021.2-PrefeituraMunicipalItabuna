@@ -30,13 +30,9 @@ A página traz muitas funcionalidades úteis a população, mas, devido aos defe
 
 Dentre os objetivos estabelecidos temos a verificação da acessibilidade e usabilidade da página. Uma vez que seu intuito é de servir a população, o site deve ser o mais acessível possível. A aprendizagem do sistema deve ser simples de forma a abranger uma gama maior de faixas econômicas e niveis de escolaridade da população. Por esses fatores a interface deve ser de simples entendimento e mais intuitiva possivel.
 
-## Método de Avaliação
+A partir desse contexto, com base no framework DECIDE, determinamos que os objetivos que determinaram as perguntas a serem respondidas pela avaliação seram "Problemas na interação e na interface" e "ideias e alternativas de design".
 
-Para a avaliação da página da prefeitura de Itabuna foi escolhido o método da avaliação heurística. A avaliação heurística dá-se por um método de avaliação, com característica de método de inspeção (proposto como alternativa de avaliação rápida e barata, quando comparada a métodos empíricos). Foi criado por para encontrar problemas de usabilidade durante o processo de design iterativo. O método sugere a verificação/inspeção sistemática de interface, com o objetivo de mapear problemas que prejudiquem a usabilidade.
-
-## Avaliação
-
-### Perguntas a serem respondidas
+## Perguntas a serem respondidas
 
 Perguntas elaboradas "Problemas na interação e na interface":
 -   Que parte da interface e da interação o deixa insatisfeito?
@@ -48,6 +44,12 @@ Perguntas elaboradas "ideias e alternativas de design":
 
 -   Qual das alternativas é a mais eficiente? Mais fácil de aprender?
 -   Qual delas os usuários preferem? Por quê?
+
+## Método de Avaliação
+
+Para a avaliação da página da prefeitura de Itabuna foi escolhido o método da avaliação heurística. A avaliação heurística dá-se por um método de avaliação, com característica de método de inspeção (proposto como alternativa de avaliação rápida e barata, quando comparada a métodos empíricos). Foi criado por para encontrar problemas de usabilidade durante o processo de design iterativo. O método sugere a verificação/inspeção sistemática de interface, com o objetivo de mapear problemas que prejudiquem a usabilidade.
+
+## Avaliação
 
 ### Avaliação Heurística
 <figure align='center'>
@@ -69,21 +71,6 @@ Perguntas elaboradas "ideias e alternativas de design":
 <img src="./assets/imagens/tabelaEstetica1.png" width="700px">
 <br><br>
 <img src="./assets/imagens/ajudaTabela.png" width="700px">
-
-
-### Perguntas a serem respondidas
-
-Perguntas elaboradas "Problemas na interação e na interface":
--   Que parte da interface e da interação o deixa insatisfeito?
--   Que parte da interface o desmotiva a explorar novas funcionalidades?
--   O usuário consegue operar o sistema?
--   Ele atingiu seu objetivo? Com quanta eficiência? Em quanto tempo? Após cometer quantos erros?
-
-Perguntas elaboradas "ideias e alternativas de design":
-
--   Qual das alternativas é a mais eficiente? Mais fácil de aprender?
--   Qual delas os usuários preferem? Por quê?
-
 
 ## Referências Bibliográficas
 
