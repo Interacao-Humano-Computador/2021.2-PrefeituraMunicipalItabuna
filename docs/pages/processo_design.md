@@ -14,6 +14,7 @@ Na **análise de requisitos** são definidas:
   * **Perfil dos usuários**
   * **Análise de tarefas**
   * **Possilibidades e limitações da plataforma**
+  * **Guia de Estilo**
 
 No fase de **design, avaliação e desenvolvimento** é feito a concepção da solução de IHC que atenda às metas de usabilidade estabelecidas na fase anterior. Nesse processo se propõe a projetar a solucão IHC em três níveis de detalhes.
   * **Primeiro nível:** Realizar a reegenharia da interação do usuário no produto, repensando a execução das tarefas para alcançar os objetivos dos usuários, elaborar alternativas de solução do modelo conceitual, elaborar protótipos de baixa fidelidade e avaliar tais protótipos.
