@@ -15,3 +15,8 @@ Relato dos resultados do Story Board, Análise de tarefas, Planejamento da Avali
 Verificação dos artefatos. | 6 de abril de 2022 |
 Relato dos resultados da avaliação do protótipo de baixa fidelidade, Planejamento da Avaliação do protótipo de alta fidelidade e o Planejamento da Avaliação do relato dos resultados da avaliação do protótipo de alta fidelidade. | 11 de abril de 2022 |
 Projeto Final. | 19 de abril de 2022 |
+
+## Versionamento
+Versão |  O que foi inserido? | Data | Autor(es)|
+---- |----- | ---- | ---- | 
+1.0| Criação do documento |10/02/2022| Todos | 
