@@ -30,6 +30,6 @@ Na fase de **instalação** é coletada as opiniões dos usuários depois de alg
 
 
 ## 3. Versionamento
-Versão |  O que foi inserido? | data | Autor(es)|
+Versão |  O que foi inserido? | Data | Autor(es)|
 ---- |----- | ---- | ---- | 
 1.0| Criação do documento |12/02/2022| Todos | 
