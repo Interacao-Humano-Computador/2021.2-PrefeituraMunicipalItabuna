@@ -74,8 +74,8 @@ Para a avaliação da página da prefeitura de Itabuna foi escolhido o método d
 
 ## 6. Referências Bibliográficas
 
-Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021)
-Interação Humano-Computador e Experiência do usuário. Autopublicação.
+    Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021)
+    Interação Humano-Computador e Experiência do usuário. Autopublicação.
 
 
 ## 7. Versionamento
