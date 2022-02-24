@@ -17,7 +17,7 @@ As personas foram desenvolvidas a partir da definição dos perfis de usuários,
 
 ## 2. Personas
 
-## 2.1 Valéria Rodrigues da Silva
+### 2.1 Valéria Rodrigues da Silva
 
 <table>
   <tr>
@@ -37,7 +37,7 @@ As personas foram desenvolvidas a partir da definição dos perfis de usuários,
 </table>
 
 
-## 2.2 Gilberto Jesus dos Santos
+### 2.2 Gilberto Jesus dos Santos
 
 <table>
   <tr>
@@ -58,7 +58,7 @@ As personas foram desenvolvidas a partir da definição dos perfis de usuários,
 
 
 
-## 2.3 Fabiana Pereira Costa
+### 2.3 Fabiana Pereira Costa
 
 <table>
   <tr>
@@ -77,7 +77,7 @@ As personas foram desenvolvidas a partir da definição dos perfis de usuários,
   <tr>
 </table>
 
-## 2.4 Lorenzo Garcia Nunes
+### 2.4 Lorenzo Garcia Nunes
 
 <table>
   <tr>
