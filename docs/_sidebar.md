@@ -3,3 +3,4 @@
 - [Processo Design](/pages/processo_design.md)
 - [Apresentações](/pages/apresentacoes.md)
 - [Versionamento](/pages/versionamento.md)
+- [Personas](/analise-de-requisitos/personas.md)
