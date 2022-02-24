@@ -1,7 +1,7 @@
 # Processo de design
 Segundo *Barbosa et al. (2021)*, o design é um processo que é constítuido por três atividades sendo elas: análise da situação atual, a síntese de uma intervenção e a avaliação da intervenção. A execução dessas atividades é feita de forma iterativa, possibilitando o refinamento sucessivos da análise da situação atual e da proposta de intervenção.
 
-## Engenharia de Usabilidade de Mayhew
+## 1. Engenharia de Usabilidade de Mayhew
 *Barbosa et al. (2021) apud Maywen (1999)* propôs o cliclo de vida para engenharia de usabilidade. Esse processo tem uma visão holística, reunindo no processo de design a organização de diferentes atividades proposta na áreas de IHC para orientar o trabalho do design. Esse processo de design possuí três fases em ciclo que representa as bases do processo de design: **análise de requisitos**, **design/avaliação/desenvolvimento** e **instalação**.
 
 <figure align='center' >
@@ -24,6 +24,12 @@ No fase de **design, avaliação e desenvolvimento** é feito a concepção da s
 Na fase de **instalação** é coletada as opiniões dos usuários depois de algum tempo de uso. Essas opiniões são usada para melhorar o sistema em versões futuras ou até apontar a necessidade de desenvolver novas soluções não previstas. 
 
 
-## Referência Bibliográficas
+## 2. Referência Bibliográfica
     Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação
     Humano-Computador e Experiência do usuário. Autopublicação.
+
+
+## 3. Versionamento
+Versão |  O que foi inserido? | Data | Autor(es)|
+---- |----- | ---- | ---- | 
+1.0| Criação do documento |12/02/2022| Todos | 
