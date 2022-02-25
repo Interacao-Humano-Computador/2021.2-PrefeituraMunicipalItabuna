@@ -25,7 +25,7 @@ As personas foram desenvolvidas a partir da definição dos perfis de usuários,
     <th>Valéria Rodrigues da Silva - Dona de Casa</th>
   </tr>
   <tr>
-    <td> <img src="../assets/imagens/personas/valeria.jpg" width=500 height=auto> </td> 
+    <td> <img src="./assets/imagens/personas/valeria.jpg" width=500 height=auto> </td> 
     <td> <p align="justify">
     <b>Status:      </b> Persona Primária   <br>
     <b>Idade:       </b> 39 anos            <br>
@@ -45,7 +45,7 @@ As personas foram desenvolvidas a partir da definição dos perfis de usuários,
     <th>Gilberto Jesus dos Santos - Servidor Público Aposentado</th>
   </tr>
   <tr>
-    <td> <img src="../assets/imagens/personas/gilberto.jpg" width=500 height=auto> </td> 
+    <td> <img src="./assets/imagens/personas/gilberto.jpg" width=500 height=auto> </td> 
     <td> <p align="justify">
     <b>Status:      </b> Persona Primária   <br>
     <b>Idade:       </b> 56 anos            <br>
@@ -66,7 +66,7 @@ As personas foram desenvolvidas a partir da definição dos perfis de usuários,
     <th>Fabiana Pereira Costa - Empreendedora</th>
   </tr>
   <tr>
-    <td> <img src="../assets/imagens/personas/fabiana.png" width=500 height=auto> </td> 
+    <td> <img src="./assets/imagens/personas/fabiana.png" width=500 height=auto> </td> 
     <td> <p align="justify">
     <b>Status:      </b> Persona Primária   <br>
     <b>Idade:       </b> 44 anos            <br>
@@ -87,7 +87,7 @@ As personas foram desenvolvidas a partir da definição dos perfis de usuários,
     <th>  Lorenzo Garcia Nunes - Mergulhador  </th>
   </tr>
   <tr>
-    <td> <img src="../assets/imagens/personas/lorenzo.png" width=660 height=auto> </td> 
+    <td> <img src="./assets/imagens/personas/lorenzo.png" width=660 height=auto> </td> 
     <td> <p align="justify">
     <b>Status:      </b> Anti-persona <br>
     <b>Idade:       </b> 32           <br>
