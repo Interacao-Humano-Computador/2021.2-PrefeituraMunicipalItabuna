@@ -1,7 +1,7 @@
 # Personas
 
 
-## 1. introdução
+## 1. Introdução
 <p align='justify'>
 Personas são personagens fictícios criados com o intuito de descrever como são os usuários reais de um sistema. São utilizadas com o objetivo de direcionar a equipe de design, representando um grupo de usuários finais.
 </p>
@@ -15,7 +15,7 @@ As personas foram desenvolvidas a partir da definição dos perfis de usuários,
 </p>
 
 
-## 2. Personas
+## 2. Personas Primárias
 
 ### 2.1 Valéria Rodrigues da Silva
 
@@ -77,7 +77,9 @@ As personas foram desenvolvidas a partir da definição dos perfis de usuários,
   <tr>
 </table>
 
-### 2.4 Lorenzo Garcia Nunes
+## 3. Antipersona
+
+### 3.1 Lorenzo Garcia Nunes
 
 <table>
   <tr>
@@ -85,7 +87,7 @@ As personas foram desenvolvidas a partir da definição dos perfis de usuários,
     <th>  Lorenzo Garcia Nunes - Mergulhador  </th>
   </tr>
   <tr>
-    <td> <img src="../assets/imagens/personas/lorenzo.png" width=650 height=auto> </td> 
+    <td> <img src="../assets/imagens/personas/lorenzo.png" width=660 height=auto> </td> 
     <td> <p align="justify">
     <b>Status:      </b> Anti-persona <br>
     <b>Idade:       </b> 32           <br>
@@ -104,7 +106,7 @@ As personas foram desenvolvidas a partir da definição dos perfis de usuários,
 
 
 ## 4. Tabela de Versionamento
-Versão |  O que foi inserido? | Data | Autor(es)|
----- |----- | ---- | ---- | 
-1.0| Criação do documento de personas |23/02/2022| [Caio Santos](https://github.com/caiobsantos) |
-2.0| Adição das Pesonas e Antipersona |24/02/2022| [Caio Santos](https://github.com/caiobsantos) e [Vinicius Roriz](https://github.com/viniciusroriz) |
+Versão |  O que foi inserido? | Data | Autor(es)| Revisor |
+---- |----- | ---- | ---- | ---- |
+1.0| Criação do documento de personas |23/02/2022| [Caio Santos](https://github.com/caiobsantos) | [Arthur Alves de Matos](https://github.com/Arthur-Gaudium) |
+2.0| Adição das Pesonas e Antipersona |24/02/2022| [Caio Santos](https://github.com/caiobsantos) e [Vinicius Roriz](https://github.com/viniciusroriz) | [Arthur Alves de Matos](https://github.com/Arthur-Gaudium) |
