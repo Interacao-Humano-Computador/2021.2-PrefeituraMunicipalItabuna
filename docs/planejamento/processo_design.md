@@ -26,7 +26,7 @@ No fase de **design, avaliação e desenvolvimento** é feito a concepção da s
   * **Terceiro nível:** Construção detalhada da interface, com alta fidelidade, para ser implementado.
 
 <p align="justify">
-Na fase de <b>instalação<b> é coletada as opiniões dos usuários depois de algum tempo de uso. Essas opiniões são usada para melhorar o sistema em versões futuras ou até apontar a necessidade de desenvolver novas soluções não previstas. 
+Na fase de <b>instalação</b> é coletada as opiniões dos usuários depois de algum tempo de uso. Essas opiniões são usada para melhorar o sistema em versões futuras ou até apontar a necessidade de desenvolver novas soluções não previstas. 
 </p>
 
 
