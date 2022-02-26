@@ -41,7 +41,6 @@ A partir desse contexto, com base no framework DECIDE, determinamos que os objet
 
 ## 3. Perguntas a serem respondidas
 
-<p align="justify"> 
 Perguntas elaboradas "Problemas na interação e na interface":
 -   Que parte da interface e da interação o deixa insatisfeito?
 -   Que parte da interface o desmotiva a explorar novas funcionalidades?
@@ -53,7 +52,6 @@ Perguntas elaboradas "ideias e alternativas de design":
 -   Qual das alternativas é a mais eficiente? Mais fácil de aprender?
 -   Qual delas os usuários preferem? Por quê?
 
-</p>
 
 ## 4. Método de Avaliação
 
