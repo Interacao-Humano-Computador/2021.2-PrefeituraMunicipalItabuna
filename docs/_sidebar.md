@@ -3,3 +3,4 @@
 - [Processo Design](/planejamento/processo_design.md)
 - [Apresentações](/apresentacoes/apresentacoes.md)
 - [Personas](/analise-de-requisitos/personas.md)
+- [Análise de Tarefas](/analise-de-requisitos/analise-tarefas.md)
