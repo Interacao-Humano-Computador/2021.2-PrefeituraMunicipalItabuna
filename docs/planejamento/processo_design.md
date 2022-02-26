@@ -30,6 +30,9 @@ Na fase de **instalação** é coletada as opiniões dos usuários depois de alg
 
 
 ## 3. Versionamento
-Versão |  O que foi inserido? | Data | Autor(es)|
----- |----- | ---- | ---- | 
-1.0| Criação do documento |12/02/2022| Todos | 
+Versão |  O que foi inserido? | Data | Autor(es)| Revisor
+---- |----- | ---- | ---- | ----
+0.1 | Criação do documento |12/02/2022| Alan Marques | Arthur Matos
+0.2 | Inserção da referência a Guia de Estilo no análise de requisitos | 14/02/2022 | Alan Marques | Arthur Matos
+0.3 | Criação da tabela de versionamento | 24/02/2022 | Caio Santos, Vinicius Roriz | Vinicius Roriz
+0.4 | Ajuste na tabela de versionamento | 26/02/2022 | Alan Marques | Arthur Matos
