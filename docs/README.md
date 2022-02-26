@@ -26,3 +26,9 @@ Estes está destinado ao desenvolvimento da documentação do projeto final da d
 | <img src="./assets/imagens/canva.svg" width="100"> | Canva é uma ferramenta de criação de slides foi escolhida pela equipe para montar as apresentações de cada uma das entregas. |
 | <img src="./assets/imagens/discord.svg" width="100"> | Discord é um aplicativo de comunicação instantânea e será utilizado para a comunicação síncrona da equipe. |
 
+## Versionamento
+Versão |  O que foi inserido? | Data | Autor(es)| Revisor
+---- |----- | ---- | ---- | ----
+0.1| Criação da Wiki e Configuração no GitHub Pages |07/02/2022| [Alan Marques](https://github.com/alan-ms) | [Arthur Alves de Matos](https://github.com/Arthur-Gaudium)
+0.2| Inicio Documentação do README |08/02/2022| [Alan Marques](https://github.com/alan-ms) | [Ciro Costa](https://github.com/ciro-c)
+0.3| Criação do documento |12/02/2022| [Arthur Alves de Matos](https://github.com/Arthur-Gaudium), [Ciro Costa](https://github.com/ciro-c) | [Arthur Alves de Matos](https://github.com/Arthur-Gaudium)

@@ -1,7 +1,9 @@
 
 ## Cronograma de atividades
 <br>
+<p align="justify"> 
 Para o cronograma de atividades, tomaremos como *check-points* as datas de cada uma das entregas da disciplina, para que a equipe tenha um acompanhamento das atividades simplificado e sincronizado com as tarefas da disciplina.
+</p>
 <br><br>
 
 
@@ -17,6 +19,7 @@ Relato dos resultados da avaliação do protótipo de baixa fidelidade, Planejam
 Projeto Final. | 19 de abril de 2022 |
 
 ## Versionamento
-Versão |  O que foi inserido? | Data | Autor(es)|
----- |----- | ---- | ---- | 
-1.0| Criação do documento |10/02/2022| Todos | 
+Versão |  O que foi inserido? | Data | Autor(es)| Revisor|
+---- |----- | ---- | ---- | ---- |
+1.0| Criação do documento |10/02/2022| Todos | |
+2.0| Correções de justificação de texto | 26/02/2022 | [Arthur Alves de Matos](https://github.com/Arthur-Gaudium)|[Alan Marques](https://github.com/alan-ms)|
