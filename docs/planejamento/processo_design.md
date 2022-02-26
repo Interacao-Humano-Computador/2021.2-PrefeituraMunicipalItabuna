@@ -1,8 +1,12 @@
 # Processo de design
-Segundo *Barbosa et al. (2021)*, o design é um processo que é constítuido por três atividades sendo elas: análise da situação atual, a síntese de uma intervenção e a avaliação da intervenção. A execução dessas atividades é feita de forma iterativa, possibilitando o refinamento sucessivos da análise da situação atual e da proposta de intervenção.
+<p align="justify"> 
+Segundo <i>Barbosa et al. (2021)</i>, o design é um processo que é constítuido por três atividades sendo elas: análise da situação atual, a síntese de uma intervenção e a avaliação da intervenção. A execução dessas atividades é feita de forma iterativa, possibilitando o refinamento sucessivos da análise da situação atual e da proposta de intervenção.
+</p>
 
 ## 1. Engenharia de Usabilidade de Mayhew
-*Barbosa et al. (2021) apud Maywen (1999)* propôs o cliclo de vida para engenharia de usabilidade. Esse processo tem uma visão holística, reunindo no processo de design a organização de diferentes atividades proposta na áreas de IHC para orientar o trabalho do design. Esse processo de design possuí três fases em ciclo que representa as bases do processo de design: **análise de requisitos**, **design/avaliação/desenvolvimento** e **instalação**.
+<p align="justify"> 
+<i>Barbosa et al. (2021) apud Maywen (1999)</i> propôs o cliclo de vida para engenharia de usabilidade. Esse processo tem uma visão holística, reunindo no processo de design a organização de diferentes atividades proposta na áreas de IHC para orientar o trabalho do design. Esse processo de design possuí três fases em ciclo que representa as bases do processo de design: <b>análise de requisitos</b>, <b>design/avaliação/desenvolvimento</b> e <b>instalação</b>.
+</p>
 
 <figure align='center' >
   <img  src="./assets/imagens/CicloDeVidaUsabilidadeMayhew.jpg" width="700px">
@@ -21,7 +25,9 @@ No fase de **design, avaliação e desenvolvimento** é feito a concepção da s
   * **Segundo nível:** Estabelece os padrões de design de IHC para a solução a ser concebida, construir protótiposde médida fidelidade de acrodo com os padrões e realizar a avaliação.
   * **Terceiro nível:** Construção detalhada da interface, com alta fidelidade, para ser implementado.
 
-Na fase de **instalação** é coletada as opiniões dos usuários depois de algum tempo de uso. Essas opiniões são usada para melhorar o sistema em versões futuras ou até apontar a necessidade de desenvolver novas soluções não previstas. 
+<p align="justify">
+Na fase de <b>instalação<b> é coletada as opiniões dos usuários depois de algum tempo de uso. Essas opiniões são usada para melhorar o sistema em versões futuras ou até apontar a necessidade de desenvolver novas soluções não previstas. 
+</p>
 
 
 ## 2. Referência Bibliográfica
@@ -30,6 +36,7 @@ Na fase de **instalação** é coletada as opiniões dos usuários depois de alg
 
 
 ## 3. Versionamento
-Versão |  O que foi inserido? | Data | Autor(es)|
----- |----- | ---- | ---- | 
-1.0| Criação do documento |12/02/2022| Todos | 
+Versão |  O que foi inserido? | Data | Autor(es)| Revisor|
+---- |----- | ---- | ---- | ---- |
+1.0| Criação do documento |10/02/2022| Todos | |
+2.0| Correções de justificação de texto | 26/02/2022 | [Arthur Alves de Matos](https://github.com/Arthur-Gaudium)|[Alan Marques](https://github.com/alan-ms)|

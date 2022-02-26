@@ -1,5 +1,8 @@
 # Lista de sites considerados para a avaliação
+
+<p align="justify"> 
 Para a escolha final do site a ser avaliado trouxemos tanto os sites que realizamos as avaliações individuais e algumas outras opções elencadas pelos membros da equipe. Ao fim, obtivemos a seguinte lista de sites para selecionar o site final a ser avaliado.
+</p>
 
 ## Sites avaliados ou indicados
 Site | Sugestão de 
@@ -22,18 +25,23 @@ Site | Sugestão de
 
 ## 1. Introdução
 
+<p align="justify"> 
 O site da [Prefeitura de Itabuna](http://www.itabuna.ba.gov.br) tem papel informacional à população local. Nele são dispostos dados e notícias sobre assuntos relacionados a gestão pública e as decisões administrativas da cidade. Além disso, pela página, é possível abrir solicitações de serviços a prefeitura, ter contanto com a ovidoria de cidade e ter acesso aos serviços da secretária da fazenda da localidade.
 
 A página traz muitas funcionalidades úteis a população, mas, devido aos defeitos em sua interface, sua utilização pelos usuários finais é estremamente prejudicada.
+</p>
 
 ## 2. Objetivos 
 
+<p align="justify"> 
 Dentre os objetivos estabelecidos temos a verificação da acessibilidade e usabilidade da página. Uma vez que seu intuito é de servir a população, o site deve ser o mais acessível possível. A aprendizagem do sistema deve ser simples de forma a abranger uma gama maior de faixas econômicas e niveis de escolaridade da população. Por esses fatores a interface deve ser de simples entendimento e mais intuitiva possivel.
 
 A partir desse contexto, com base no framework DECIDE, determinamos que os objetivos que determinaram as perguntas a serem respondidas pela avaliação seram "Problemas na interação e na interface" e "ideias e alternativas de design".
+</p>
 
 ## 3. Perguntas a serem respondidas
 
+<p align="justify"> 
 Perguntas elaboradas "Problemas na interação e na interface":
 -   Que parte da interface e da interação o deixa insatisfeito?
 -   Que parte da interface o desmotiva a explorar novas funcionalidades?
@@ -45,13 +53,19 @@ Perguntas elaboradas "ideias e alternativas de design":
 -   Qual das alternativas é a mais eficiente? Mais fácil de aprender?
 -   Qual delas os usuários preferem? Por quê?
 
+</p>
+
 ## 4. Método de Avaliação
 
+<p align="justify"> 
 Para a avaliação da página da prefeitura de Itabuna foi escolhido o método da avaliação heurística. A avaliação heurística dá-se por um método de avaliação, com característica de método de inspeção (proposto como alternativa de avaliação rápida e barata, quando comparada a métodos empíricos). Foi criado por para encontrar problemas de usabilidade durante o processo de design iterativo. O método sugere a verificação/inspeção sistemática de interface, com o objetivo de mapear problemas que prejudiquem a usabilidade.
+
+</p>
 
 ## 5. Avaliação
 
 ### Avaliação Heurística
+
 <figure align='center'>
 <img src="./assets/imagens/Barra.png" width="700px">
 <br>
@@ -66,11 +80,17 @@ Para a avaliação da página da prefeitura de Itabuna foi escolhido o método d
 </figure>
 
 <br>
-<img src="./assets/imagens/consistenciaTabela1.png" width="700px">
+<figure align='center'>
+    <img src="./assets/imagens/consistenciaTabela1.png" width="700px">
+</figure>
 <br><br>
-<img src="./assets/imagens/tabelaEstetica1.png" width="700px">
+<figure align='center'>
+    <img src="./assets/imagens/tabelaEstetica1.png" width="700px">
+</figure>
 <br><br>
-<img src="./assets/imagens/ajudaTabela.png" width="700px">
+<figure align='center'>
+    <img src="./assets/imagens/ajudaTabela.png" width="700px">
+</figure>
 
 ## 6. Referências Bibliográficas
 
@@ -79,6 +99,7 @@ Para a avaliação da página da prefeitura de Itabuna foi escolhido o método d
 
 
 ## 7. Versionamento
-Versão |  O que foi inserido? | Data | Autor(es)|
----- |----- | ---- | ---- | 
-1.0| Criação do documento |10/02/2022| Todos | 
+Versão |  O que foi inserido? | Data | Autor(es)| Revisor |
+---- |----- | ---- | ---- | ---- |
+1.0| Criação do documento |10/02/2022| Todos |  |
+2.0| Correções de justificação de texto | 26/02/2022 | [Arthur Alves de Matos](https://github.com/Arthur-Gaudium)|[Alan Marques](https://github.com/alan-ms)|
