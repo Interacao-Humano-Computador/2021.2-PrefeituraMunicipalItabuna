@@ -33,7 +33,49 @@ bem como para auxiliar na identificação de problemas de desempenho <i>(Barbosa
  </ul>
 </p>
 
-### 3. Versionamento 
+### 3. Análise
+
+#### 3.1 Realizar uma manifestação na Ouvidoria
+
+|Objetivos/Operações| Problemas e recomendações|
+|---|---|
+|0. Realizar Manifestação| |
+|1. Acessar o site da prefeitura de Itabuna|input: endereço do site|
+|2. Selecionar na barra de tarefas ou no menu suspenso de atalhos a opção Ouvidoria Municipal|recomendação: remover o menu suspenso de atalhos ou o posicionar no final da página|
+|2.1 Selecionar a opção Nova Manifestação||
+|2.1.1 Selecionar qual o tipo de manifestação que deseja realizar||
+|2.1.2 Inserir os dados necessários e a manifestação|input: caso seja manifestação aberta ou sigilosa: nome, email, telefone, residente, tipo, meio de resposta e descrição da manifestação|
+|2.1.3 Selecionar a opção Enviar||
+
+Tabela 1 - Tabela HTA. Autor: Vinícius Lima.
+
+<figure align='center'>
+  <img src="./assets/imagens/analises/diagrama-manifestacao.png">
+</figure>
+Figura 1 - Diagrama HTA.
+
+#### 3.2 Validação de Nota Fiscal Eletrônica
+
+|Objetivos/Operações| Problemas e recomendações|
+|---|---|
+|0. Validar Nota Fiscal Eletrônica||
+|1. Acessar o site da prefeitura de Itabuna|input: endereço do site|
+|2. Selecionar na barra de tarefas ou no menu suspenso de atalhos a opção Nota Fiscal Eletrônica| recomendação: remover o menu suspenso de atalhos ou o posicionar no final da página|
+|2.1 Selecionar a opção Validar NFS-e||
+|2.1.1 Inserir os dados para realização da busca|input: CPF ou CNPJ, número da NFS-e, Código de verificação|
+|2.1.2 Efetuar a verificação do Captcha||
+|2.1.3 Selecionar a opção Buscar||
+|3. Realizar login no site||
+
+Tabela 2 - Tabela HTA. Autor: Vinícius Lima.
+
+<figure align='center'>
+  <img src="./assets/imagens/analises/diagrama-nfe.png">
+</figure>
+Figura 2 - Diagrama HTA.
+
+### 4. Versionamento 
 Versão |  O que foi inserido? | Data | Autor(es)| Revisor
 ---- |----- | ---- | ---- | ----
 0.1 | Criação do documento, introdução e análise hiererárquica |26/02/2022| [Alan Marques](https://github.com/alan-ms) |
+0.2 | Adição de tabelas e diagramas de análise | 27/02/2022| [Vinícius Lima](https://github.com/vinelime)
