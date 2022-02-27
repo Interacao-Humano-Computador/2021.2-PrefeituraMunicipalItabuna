@@ -8,4 +8,5 @@
 
 - [Perfil de Usuários](/analise-de-requisitos/perfil.md)
 - [Personas](/analise-de-requisitos/personas.md)
+- [Análise de Tarefas](/analise-de-requisitos/analise-de-tarefas.md)
 - [Apresentações](/apresentacoes/apresentacoes.md)
