@@ -2,10 +2,10 @@
 
 ### 1. Introdução
 <p align="justify">
-  A <b>análise de tarefas</b> é para se ter um entendimento sobre qual é o trabalho dos usuário como eles o realizam e por quê. Nesse tipo de análise, o trabalho é definido em termos dos objetivos que os usários querem ou precisam atingir.(Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. 2021). O método que será utilizado para análise de tarefas nesse projeto será a Análise Hierárquica de Tarefas (AHT).
+  A <b>análise de tarefas</b> é para se ter um entendimento sobre qual é o trabalho dos usuário, como eles o realizam e por quê. Nesse tipo de análise, o trabalho é definido em termos dos objetivos que os usuários querem ou precisam atingir.(Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. 2021). O método que será utilizado para análise de tarefas nesse projeto será a Análise Hierárquica de Tarefas (AHT).
 </p>
 
-### 2. Anaĺise Hiererárquica de Tarefas (AHT)
+### 2. Anaĺise Hierárquica de Tarefas (AHT)
 <p align="justify">
 A Análise Hierárquica de Tarefas foi desenvolvida na década
 de 1960 para entender as competências e habilidades exibidas em tarefas complexas e não repetitivas,
@@ -25,7 +25,7 @@ bem como para auxiliar na identificação de problemas de desempenho <i>(Barbosa
  </ul>
  <ul>
     <li align="justify">
-      <b>Operação</b>: Um plano define os subobjetivos necessários para alcançar um outro objetivo maior, e a ordem em que esses subobjetivos devem ser alcançados. Os planos podem definir diversas relações entre os subobjetivos: sequência fixa
+      <b>Operação</b>: Um plano define os sub-objetivos necessários para alcançar um outro objetivo maior, e a ordem em que esses sub-objetivos devem ser alcançados. Os planos podem definir diversas relações entre os sub-objetivos: sequência fixa
       (um objetivo deve ser atingido antes do próximo); regra de seleção ou decisão (quais objetivos que deverão
       ser atingidos dependem das circunstâncias); ou em paralelo (mais de um objetivo deve ser atingido ao
       mesmo tempo). (Barbosa et al., 2021)
@@ -77,5 +77,5 @@ Figura 2 - Diagrama HTA.
 ### 4. Versionamento 
 Versão |  O que foi inserido? | Data | Autor(es)| Revisor
 ---- |----- | ---- | ---- | ----
-0.1 | Criação do documento, introdução e análise hiererárquica |26/02/2022| [Alan Marques](https://github.com/alan-ms) |
-0.2 | Adição de tabelas e diagramas de análise | 27/02/2022| [Vinícius Lima](https://github.com/vinelime)
+0.1 | Criação do documento, introdução e análise hierárquica |26/02/2022| [Alan Marques](https://github.com/alan-ms) | [Ciro](https://github.com/ciro-c)
+0.2 | Adição de tabelas e diagramas de análise | 27/02/2022| [Vinícius Lima](https://github.com/vinelime) | [Ciro](https://github.com/ciro-c)
