@@ -1,11 +1,11 @@
-## Análise de Tarefas
+# Análise de Tarefas
 
-### 1. Introdução
+## 1. Introdução
 <p align="justify">
   A <b>análise de tarefas</b> é para se ter um entendimento sobre qual é o trabalho dos usuário, como eles o realizam e por quê. Nesse tipo de análise, o trabalho é definido em termos dos objetivos que os usuários querem ou precisam atingir.(Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. 2021). O método que será utilizado para análise de tarefas nesse projeto será a Análise Hierárquica de Tarefas (AHT).
 </p>
 
-### 2. Anaĺise Hierárquica de Tarefas (AHT)
+## 2. Análise Hierárquica de Tarefas (AHT)
 <p align="justify">
 A Análise Hierárquica de Tarefas foi desenvolvida na década
 de 1960 para entender as competências e habilidades exibidas em tarefas complexas e não repetitivas,
@@ -33,9 +33,9 @@ bem como para auxiliar na identificação de problemas de desempenho <i>(Barbosa
  </ul>
 </p>
 
-### 3. Análise
+## 3. Análise
 
-#### 3.1 Realizar uma manifestação na Ouvidoria
+### 3.1 Realizar uma manifestação na Ouvidoria
 
 |Objetivos/Operações| Problemas e recomendações|
 |---|---|
@@ -54,7 +54,7 @@ Tabela 1 - Tabela HTA. Autor: Vinícius Lima.
 </figure>
 Figura 1 - Diagrama HTA.
 
-#### 3.2 Validação de Nota Fiscal Eletrônica
+### 3.2 Validação de Nota Fiscal Eletrônica
 
 |Objetivos/Operações| Problemas e recomendações|
 |---|---|
@@ -74,8 +74,13 @@ Tabela 2 - Tabela HTA. Autor: Vinícius Lima.
 </figure>
 Figura 2 - Diagrama HTA.
 
-### 4. Versionamento 
+## 4. Referência Bibliográfica
+    Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação
+    Humano-Computador e Experiência do usuário. Autopublicação.
+
+## 5. Versionamento 
 Versão |  O que foi inserido? | Data | Autor(es)| Revisor
 ---- |----- | ---- | ---- | ----
 0.1 | Criação do documento, introdução e análise hierárquica |26/02/2022| [Alan Marques](https://github.com/alan-ms) | [Ciro](https://github.com/ciro-c)
 0.2 | Adição de tabelas e diagramas de análise | 27/02/2022| [Vinícius Lima](https://github.com/vinelime) | [Ciro](https://github.com/ciro-c)
+0.3 | Inserção das referências bibliográficas |26/02/2022| [Alan Marques](https://github.com/alan-ms) | [Ciro](https://github.com/ciro-c)
