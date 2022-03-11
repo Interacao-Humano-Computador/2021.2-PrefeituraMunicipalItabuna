@@ -6,7 +6,7 @@
 Entende-se a usabilidade como uma specto que visa assegurar que produtos interativos sejam, no entendimento do usuário, agradáveis, eficazes e de fácil uso. Tal aspecto, implica em otimizar as interações entre o produto e os que utilizam-no, de uma maneira que permita-se a realização das atividades cotidianas.
 </p>
 
-## 1. Descrição das metas
+## 2. Descrição das metas
 <p align="justify">
 A usabilidade pode ser definida em metas as quais se dividem em:
 </p>
