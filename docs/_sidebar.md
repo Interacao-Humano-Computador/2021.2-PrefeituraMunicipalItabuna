@@ -9,4 +9,9 @@
 - [Perfil de Usuários](/analise-de-requisitos/perfil.md)
 - [Personas](/analise-de-requisitos/personas.md)
 - [Análise de Tarefas](/analise-de-requisitos/analise-de-tarefas.md)
+- [Princípios Gerais do Projeto](/analise-de-requisitos/principios-gerais.md)
+- [Metas de usabilidade](/analise-de-requisitos/metas-usabilidade.md)
+
+<pre style="font-family: Source Sans Pro,Helvetica Neue,Arial,sans-serif;">     Apresentações</pre>
+
 - [Apresentações](/apresentacoes/apresentacoes.md)
