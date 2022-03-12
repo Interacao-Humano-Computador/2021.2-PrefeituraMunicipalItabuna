@@ -33,6 +33,13 @@ O usuário, ao acessar o site, encontra vários banners com notícias diversas, 
 ## 3 Elementos de interface
 
 ### 3.1 Disposição espacial e grid
+A página utiliza um grid pouco intuitivo e de difícil localização do que se procura dentro do site. É dividido em três partes: a primeira possui três divisões para acessar requerimentos, tributos e licitações; a segunda parte possui quatro banners para outros serviços; a terceira parte apresenta as três últimas notícias da prefeitura postadas no site.
+
+<figure align="center">
+    <img src="../assets/imagens/analises/representacao-grid.png">
+    <figcaption>Representação do grid principal do site</figcaption>
+</figure>
+
 ## 3.2 Janelas
 ### 3.3 Tipografia
 
@@ -41,6 +48,10 @@ A fonte utilizada em todo o site foi a [Open sans](https://fonts.google.com/spec
 ![fonte Open sans](../assets/imagens/analises/fonteEx.png)
 
 ### 3.4 Símbolos não tipográficos
+Na barra de atalhos, há para cada opção um ícone atrelado. Estes ícones têm o mesmo padrão visual, porém o texto que os acompanha é pequeno e de baixa resolução, levando a uma dificuldade de visualização.
+
+![icones barra de atalhos](../assets/imagens/analises/icones-barra-atalho.png)
+
 ### 3.5 Cores
 
 Cores usadas no site
@@ -74,3 +85,4 @@ Não foram encontrados nenhum nesse site
 Versão |  O que foi inserido? | Data | Autor(es)| Revisor
 ---- |----- | ---- | ---- | ----
 0.1 | Criação do documento, introdução, Descrição do ambiente de trabalho, Inicio dos elementos de interface e Elementos de interação |12/03/2022| [Ciro](https://github.com/ciro-c) | []()
+0.2 | Adição dos tópicos 3.1 e 3.4 dos Elementos de Interface |12/03/2022| [Vinicius Lima](https://github.com/vinelime) | []()
