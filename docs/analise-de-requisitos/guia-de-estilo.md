@@ -32,13 +32,45 @@ O usuário, ao acessar o site, encontra vários banners com notícias diversas, 
 
 ## 3 Elementos de interface
 
-## 4 Elementos de interação
+### 3.1 Disposição espacial e grid
+## 3.2 Janelas
+### 3.3 Tipografia
 
+A fonte utilizada em todo o site foi a [Open sans](https://fonts.google.com/specimen/Open+Sans#standard-styles)
+
+![fonte Open sans](../assets/imagens/analises/fonteEx.png)
+
+### 3.4 Símbolos não tipográficos
+### 3.5 Cores
+
+Cores usadas no site
+
+![cores](../assets/imagens/analises/cores.png)
+
+### 3.6 Animações
+## 4 Elementos de interação
+### 4.1 Estilos de interação
+
+### 4.2 Seleção de um estilo
+### 4.3 Aceleradores
+
+Não foram encontrados nenhum nesse site
 ## 5 Elementos de ação
 
+### 5.1 Preenchimento de campos
+
+### 5.2 Seleção
+
+### 5.3 Ativação
 ## 6 Vocabulário e padrões
+
+### 6.1 Terminologia
+
+### 6.2 Tipos de tela
+
+### 6.3 Sequências de diálogos
 
 
 Versão |  O que foi inserido? | Data | Autor(es)| Revisor
 ---- |----- | ---- | ---- | ----
-0.1 | Criação do documento, introdução e Descrição do ambiente de trabalho |12/03/2022| [Ciro](https://github.com/ciro-c) | []()
+0.1 | Criação do documento, introdução, Descrição do ambiente de trabalho, Inicio dos elementos de interface e Elementos de interação |12/03/2022| [Ciro](https://github.com/ciro-c) | []()
