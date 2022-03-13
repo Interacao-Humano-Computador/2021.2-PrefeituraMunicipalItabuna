@@ -36,10 +36,7 @@ O usuário, ao acessar o site, encontra vários banners com notícias diversas, 
 ### 3.1 Disposição espacial e grid
 A página utiliza um grid pouco intuitivo e de difícil localização do que se procura dentro do site. É dividido em três partes: a primeira possui três divisões para acessar requerimentos, tributos e licitações; a segunda parte possui quatro banners para outros serviços; a terceira parte apresenta as três últimas notícias da prefeitura postadas no site.
 
-<figure align="center">
-    <img src="../assets/imagens/analises/representacao-grid.png">
-    <figcaption>Representação do grid principal do site</figcaption>
-</figure>
+![representacao do grid](../assets/imagens/analises/representacao-grid.png)
 
 ## 3.2 Janelas
 
