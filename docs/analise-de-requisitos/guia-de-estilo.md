@@ -144,6 +144,6 @@ A tela do Diário Oficial conta com varios campos de seleção e não se encaixa
 
 Versão |  O que foi inserido? | Data | Autor(es)| Revisor
 ---- |----- | ---- | ---- | ----
-0.1 | Criação do documento, introdução, Descrição do ambiente de trabalho, Inicio dos elementos de interface e Elementos de interação |12/03/2022| [Ciro](https://github.com/ciro-c) | [Arthur Matos]([Arthur Alves de Matos](https://github.com/Arthur-Gaudium))
+0.1 | Criação do documento, introdução, Descrição do ambiente de trabalho, Inicio dos elementos de interface e Elementos de interação |12/03/2022| [Ciro](https://github.com/ciro-c) | [Arthur Alves de Matos](https://github.com/Arthur-Gaudium)
 0.2 | Adição dos tópicos dos Elementos de Interface e Elementos de Interação |12/03/2022| [Vinicius Lima](https://github.com/vinelime) | [Vinicius Roriz](https://github.com/viniciusroriz)
-0.3 | Adição da seção 5, 6, e 7, e do tópico 3.6 | 12/03/2022 | [Vinicius Roriz](https://github.com/viniciusroriz)| [Arthur Matos]([Arthur Alves de Matos](https://github.com/Arthur-Gaudium)
+0.3 | Adição da seção 5, 6, e 7, e do tópico 3.6 | 12/03/2022 | [Vinicius Roriz](https://github.com/viniciusroriz)| [Arthur Alves de Matos](https://github.com/Arthur-Gaudium)
