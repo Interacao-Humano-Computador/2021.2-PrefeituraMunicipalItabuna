@@ -36,7 +36,10 @@ O usuário, ao acessar o site, encontra vários banners com notícias diversas, 
 ### 3.1 Disposição espacial e grid
 A página utiliza um grid pouco intuitivo e de difícil localização do que se procura dentro do site. É dividido em três partes: a primeira possui três divisões para acessar requerimentos, tributos e licitações; a segunda parte possui quatro banners para outros serviços; a terceira parte apresenta as três últimas notícias da prefeitura postadas no site.
 
-![representacao do grid](../assets/imagens/analises/representacao-grid.png)
+<figure align="center">
+    <img src="../assets/imagens/analises/representacao-grid.png">
+    <figcaption align = "center"><i>Figura 1 - Representação do Grid</i></figcaption>
+</figure>
 
 ## 3.2 Janelas
 
@@ -46,7 +49,7 @@ A fonte utilizada em todo o site foi a [Open sans](https://fonts.google.com/spec
 
 <figure align="center">
     <img src="../assets/imagens/analises/fonteEx.png">
-    <figcaption>Figura 2 - fonte Open Sans</figcaption>
+    <figcaption align = "center"><i>Figura 2 - fonte Open Sans</i></figcaption>
 </figure>
 
 ### 3.4 Símbolos não tipográficos
@@ -54,7 +57,7 @@ Na barra de atalhos, há para cada opção um ícone atrelado. Estes ícones tê
 
 <figure align="center">
     <img src="../assets/imagens/analises/icones-barra-atalho.png">
-    <figcaption>Figura 3 - Ícones da barra de atalhos</figcaption>
+    <figcaption align = "center"><i>Figura 3 - Ícones da barra de atalhos</i></figcaption>
 </figure>
 
 ### 3.5 Cores
@@ -63,7 +66,7 @@ Cores usadas no site:
 
 <figure align="center">
     <img src="../assets/imagens/analises/cores.png">
-    <figcaption>Figura 4 - Cores</figcaption>
+    <figcaption align = "center"><i>Figura 4 - Cores</i></figcaption>
 </figure>
 
 ### 3.6 Animações
@@ -71,7 +74,7 @@ Cores usadas no site:
 Ao se passar o mouse por cima de um artigo, é removido o obscurecimento da imagem, tornando-a clara
 <figure align="center">
     <img src="../assets/imagens/analises/animacoes.png">
-    <figcaption>Figura 5 - Artigo com foco (acima) vs Artigo sem foco (abaixo)</figcaption>
+    <figcaption align = "center"><i>Figura 5 - Artigo com foco (acima) vs Artigo sem foco (abaixo)</i></figcaption>
 </figure>
 
 ## 4 Elementos de interação
@@ -92,7 +95,7 @@ O campo de preenchimento presente na barra de navegação possui um menu suspens
 
 <figure align="center">
     <img src="../assets/imagens/analises/campo_pesquisa.png">
-    <figcaption>Figura 6 - Campo de pesquisa da barra de navegação</figcaption>
+    <figcaption align = "center"><i>Figura 6 - Campo de pesquisa da barra de navegação</i></figcaption>
 </figure>
 
 Outros campos presentes no site não possuem tal funcionalidade.
@@ -107,7 +110,7 @@ Na página Diário Oficial, encontram-se vários elementos de seleção, sendo e
 
 <figure align="center">
     <img src="../assets/imagens/analises/selecoes.png">
-    <figcaption>Figura 7 - Página Diário Oficial e seus campos de seleção</figcaption>
+    <figcaption align = "center"><i>Figura 7 - Página Diário Oficial e seus campos de seleção</i></figcaption>
 </figure>
 
 ### 5.3 Ativação
