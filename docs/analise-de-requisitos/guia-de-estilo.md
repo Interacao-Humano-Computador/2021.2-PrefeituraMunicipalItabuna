@@ -2,12 +2,6 @@
 
 ## 1 Introdução
 
-- Objetivo do guia de estilo
-- Organização e conteúdo do guia de estilo
-- Público-alvo do guia de estilos (programadores, gerentes, equipe de suporte)
-- Como utilizar o guia (em produção e manutenção)
-- Como manter o guia
-
 ### 1.1 Objetivo do guia de estilo
 O guia de estilo e um registro das principais decisões de design tomadas, de forma que elas não se percam, isto é, sejam efetivamente incorporadas no produto final. O guia de estilo tem como objetivo se tornar um meio de comunicação entre os membros de design, assim como os desenvolvedores, para servir como base para tomadas de decisão e criação de padrões que podem ser reutilizados durante versões futuras.
 
