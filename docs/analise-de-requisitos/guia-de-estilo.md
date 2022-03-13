@@ -37,7 +37,7 @@ O usuário, ao acessar o site, encontra vários banners com notícias diversas, 
 A página utiliza um grid pouco intuitivo e de difícil localização do que se procura dentro do site. É dividido em três partes: a primeira possui três divisões para acessar requerimentos, tributos e licitações; a segunda parte possui quatro banners para outros serviços; a terceira parte apresenta as três últimas notícias da prefeitura postadas no site.
 
 <figure align="center">
-    <img src="../assets/imagens/analises/representacao-grid.png">
+    <img src="./assets/imagens/analises/representacao-grid.png">
     <figcaption align = "center"><i>Figura 1 - Representação do Grid</i></figcaption>
 </figure>
 
@@ -144,6 +144,6 @@ A tela do Diário Oficial conta com varios campos de seleção e não se encaixa
 
 Versão |  O que foi inserido? | Data | Autor(es)| Revisor
 ---- |----- | ---- | ---- | ----
-0.1 | Criação do documento, introdução, Descrição do ambiente de trabalho, Inicio dos elementos de interface e Elementos de interação |12/03/2022| [Ciro](https://github.com/ciro-c) | []()
+0.1 | Criação do documento, introdução, Descrição do ambiente de trabalho, Inicio dos elementos de interface e Elementos de interação |12/03/2022| [Ciro](https://github.com/ciro-c) | [Arthur Matos]([Arthur Alves de Matos](https://github.com/Arthur-Gaudium))
 0.2 | Adição dos tópicos dos Elementos de Interface e Elementos de Interação |12/03/2022| [Vinicius Lima](https://github.com/vinelime) | [Vinicius Roriz](https://github.com/viniciusroriz)
-0.3 | Adição da seção 5, 6, e 7, e do tópico 3.6 | 12/03/2022 | [Vinicius Roriz](https://github.com/viniciusroriz)| []()
+0.3 | Adição da seção 5, 6, e 7, e do tópico 3.6 | 12/03/2022 | [Vinicius Roriz](https://github.com/viniciusroriz)| [Arthur Matos]([Arthur Alves de Matos](https://github.com/Arthur-Gaudium)
