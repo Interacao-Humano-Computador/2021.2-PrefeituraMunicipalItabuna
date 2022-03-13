@@ -50,7 +50,7 @@ Consistência e Padronização:</b> Para facilitar o aprendizado e uso de um sis
 ## 5. Tabela de Versionamento
 Versão |  O que foi inserido? | Data | Autor(es)| Revisor |
 ---- |----- | ---- | ---- | ---- |
-1.0| Criação do documento |10/03/2022| [Arthur Alves de Matos](https://github.com/Arthur-Gaudium) | ---- |
+1.0| Criação do documento |10/03/2022| [Arthur Alves de Matos](https://github.com/Arthur-Gaudium) | [Caio Santos](https://github.com/caiobsantos) |
 
 
 
