@@ -49,7 +49,7 @@ A navegação do site é feita em sua maioria por hyperlinks que levam à outras
 A fonte utilizada em todo o site foi a [Open sans](https://fonts.google.com/specimen/Open+Sans#standard-styles)
 
 <figure align="center">
-    <img src="../assets/imagens/analises/fonteEx.png">
+    <img src="./assets/imagens/analises/fonteEx.png">
     <figcaption align = "center"><i>Figura 2 - fonte Open Sans</i></figcaption>
 </figure>
 
@@ -57,7 +57,7 @@ A fonte utilizada em todo o site foi a [Open sans](https://fonts.google.com/spec
 Na barra de atalhos, há para cada opção um ícone atrelado. Estes ícones têm o mesmo padrão visual, porém o texto que os acompanha é pequeno e de baixa resolução, levando a uma dificuldade de visualização.
 
 <figure align="center">
-    <img src="../assets/imagens/analises/icones-barra-atalho.png">
+    <img src="./assets/imagens/analises/icones-barra-atalho.png">
     <figcaption align = "center"><i>Figura 3 - Ícones da barra de atalhos</i></figcaption>
 </figure>
 
@@ -66,7 +66,7 @@ Na barra de atalhos, há para cada opção um ícone atrelado. Estes ícones tê
 Cores usadas no site:
 
 <figure align="center">
-    <img src="../assets/imagens/analises/cores.png">
+    <img src="./assets/imagens/analises/cores.png">
     <figcaption align = "center"><i>Figura 4 - Cores</i></figcaption>
 </figure>
 
@@ -74,7 +74,7 @@ Cores usadas no site:
 
 Ao se passar o mouse por cima de um artigo, é removido o obscurecimento da imagem, tornando-a clara
 <figure align="center">
-    <img src="../assets/imagens/analises/animacoes.png">
+    <img src="./assets/imagens/analises/animacoes.png">
     <figcaption align = "center"><i>Figura 5 - Artigo com foco (acima) vs Artigo sem foco (abaixo)</i></figcaption>
 </figure>
 
@@ -97,7 +97,7 @@ Não foram encontrados nenhum nesse site
 O campo de preenchimento presente na barra de navegação possui um menu suspenso com sugestões baseadas em pesquisas anteriores para preenchimento automático.
 
 <figure align="center">
-    <img src="../assets/imagens/analises/campo_pesquisa.png">
+    <img src="./assets/imagens/analises/campo_pesquisa.png">
     <figcaption align = "center"><i>Figura 6 - Campo de pesquisa da barra de navegação</i></figcaption>
 </figure>
 
@@ -112,7 +112,7 @@ Na página Diário Oficial, encontram-se vários elementos de seleção, sendo e
 - Cards representando cada mês, contendo submenus com os dias que houveram publicações, e ditas publicações
 
 <figure align="center">
-    <img src="../assets/imagens/analises/selecoes.png">
+    <img src="./assets/imagens/analises/selecoes.png">
     <figcaption align = "center"><i>Figura 7 - Página Diário Oficial e seus campos de seleção</i></figcaption>
 </figure>
 
