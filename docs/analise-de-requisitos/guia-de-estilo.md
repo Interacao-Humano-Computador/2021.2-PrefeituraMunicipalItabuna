@@ -38,6 +38,8 @@ A página utiliza um grid pouco intuitivo e de difícil localização do que se 
 ![representacao do grid](../assets/imagens/analises/representacao-grid.png)
 
 ## 3.2 Janelas
+A navegação do site é feita em sua maioria por hyperlinks que levam à outras páginas com funções específicas para cada um dos serviços disponíveis. Estas páginas, entretanto, não seguem todas o mesmo padrão, com diferenças de botões, cores e layouts.
+
 ### 3.3 Tipografia
 
 A fonte utilizada em todo o site foi a [Open sans](https://fonts.google.com/specimen/Open+Sans#standard-styles)
@@ -56,10 +58,15 @@ Cores usadas no site
 ![cores](../assets/imagens/analises/cores.png)
 
 ### 3.6 Animações
+O site não possui nenhuma animação durante a navegação.
+
 ## 4 Elementos de interação
 ### 4.1 Estilos de interação
+O site utiliza de uma série de hyperlinks para outras páginas como modo principal de interação. Estes hyperlinks existem tanto na barra de atalhos como nos banners. Alguns dos acessos à diferentes sites aparecem em mais de um lugar na página e nem todos os banners informam claramente a qual função que eles levam. 
 
 ### 4.2 Seleção de um estilo
+Para a montagem dos protótipos, teremos um foco em eliminar todas as redundâncias de links para outras páginas, simplificar e melhorar a visualização da barra de atalhos e aumentar a clareza das funções dos banners assim como separar devidamente os grids de notícia para que o público consiga discernir mais facilmente qual rota tomar para realizar sua tarefa.
+
 ### 4.3 Aceleradores
 
 Não foram encontrados nenhum nesse site
@@ -82,4 +89,4 @@ Não foram encontrados nenhum nesse site
 Versão |  O que foi inserido? | Data | Autor(es)| Revisor
 ---- |----- | ---- | ---- | ----
 0.1 | Criação do documento, introdução, Descrição do ambiente de trabalho, Inicio dos elementos de interface e Elementos de interação |12/03/2022| [Ciro](https://github.com/ciro-c) | []()
-0.2 | Adição dos tópicos 3.1 e 3.4 dos Elementos de Interface |12/03/2022| [Vinicius Lima](https://github.com/vinelime) | []()
+0.2 | Adição dos tópicos dos Elementos de Interface e Elementos de Interação |12/03/2022| [Vinicius Lima](https://github.com/vinelime) | []()
