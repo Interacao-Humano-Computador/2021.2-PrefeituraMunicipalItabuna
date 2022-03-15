@@ -17,30 +17,41 @@
     Para desenvolver as storyboards, utilizamos como base o documento de análise de tarefas e as personas do projeto. Assim, foram definidas as tarefas realizadas neste documento, assim como possíveis cenários, ambientes e os atores das histórias.
 <p>
 <p align='justify'>
-    A ferramenta utilizada para a elaboração das storyboards foi a plataforma <a href="https://www.storyboardthat.com/pt">Storyboardthat</a>
+    A ferramenta utilizada para a elaboração das storyboards foi a plataforma <a href="https://www.storyboardthat.com/pt">Storyboardthat</a>.
 <p>
 
 
 ## 4. Storyboards
 
 ### 4.1 Realização de uma manifestação
+
 <figure align="center">
     <img src="./assets/imagens/storyboards/manifestacao_sucesso.png">
-    <figcaption align = "center"><i>StoryBoard 1 - Situação de sucesso ao realizar uma manifestação no site</i></figcaption>
+    <figcaption align = "center"><i>Storyboard 1 - Situação de sucesso ao realizar uma manifestação no site</i></figcaption>
 </figure>
 
 
 <figure align="center">
     <img src="./assets/imagens/storyboards/manifestacao_dificuldade.png">
-    <figcaption align = "center"><i>StoryBoard 2 - Situação de dificuldade ao realizar uma manifestação no site</i></figcaption>
+    <figcaption align = "center"><i>Storyboard 2 - Situação de dificuldade ao realizar uma manifestação no site</i></figcaption>
 </figure>
 
 
+### 4.2 Validação de NFS-e
+
+<figure align="center">
+    <img src="./assets/imagens/storyboards/nfse_dificuldade.png">
+    <figcaption align = "center"><i>Storyboard 3 - Situação de dificuldade ao tentar validar as notas fiscais eletrônicas</i></figcaption>
+</figure>
+
+<figure align="center">
+    <img src="./assets/imagens/storyboards/nfse_sucesso.png">
+    <figcaption align = "center"><i>Storyboard 4 - Situação de validação das notas fiscais caso o site fosse menos confuso e mais acessível</i></figcaption>
+</figure>
 
 ## 5. Conclusão
 <p align='justify'>
-    
-<p>
+    Com a criação das storyboards, espera-se que os designers possam compreender se o sistema atende às necessidades dos usuários, entender os cenários e as tarefas realizadas e assim, possibilitar uma melhor avaliação da situação e uma intervenção que provoque melhores interações no sistema.
 
 
 ## 6. Referência Bibliográfica
@@ -51,5 +62,6 @@
 Versão |  O que foi inserido? | Data | Autor(es)| Revisor |
 ---- |----- | ---- | ---- | ---- |
 0.1| Criação do documento de storyboards|14/03/2022| [Caio Santos](https://github.com/caiobsantos) |  |]
-0.2| Adição das storyboards|14/03/2022| [Caio Santos](https://github.com/caiobsantos) |  |
-0.3| Adição da metodologia e conclusão|14/03/2022| [Caio Santos](https://github.com/caiobsantos) |  |
+0.2| Adição das storyboards|15/03/2022| [Caio Santos](https://github.com/caiobsantos) |  |
+0.3| Adição da metodologia e conclusão|15/03/2022| [Caio Santos](https://github.com/caiobsantos) |  |
+0.4| Adição de mais storyboards|15/03/2022| [Caio Santos](https://github.com/caiobsantos) |  |
