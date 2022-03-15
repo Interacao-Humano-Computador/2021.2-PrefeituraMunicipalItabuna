@@ -12,6 +12,15 @@
 <p>
 
 
+## 3. Metodologia
+<p align='justify'>
+    Para desenvolver as storyboards, utilizamos como base o documento de análise de tarefas e as personas do projeto. Assim, foram definidas as tarefas realizadas neste documento, assim como possíveis cenários, ambientes e os atores das histórias.
+<p>
+<p align='justify'>
+    A ferramenta utilizada para a elaboração das storyboards foi a plataforma <a href="https://www.storyboardthat.com/pt">Storyboardthat</a>
+<p>
+
+
 ## 4. Storyboards
 
 ### 4.1 Realização de uma manifestação
@@ -27,8 +36,20 @@
 </figure>
 
 
-## 6. Tabela de Versionamento
+
+## 5. Conclusão
+<p align='justify'>
+    
+<p>
+
+
+## 6. Referência Bibliográfica
+    Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação
+    Humano-Computador e Experiência do usuário. Autopublicação.
+
+## 7. Tabela de Versionamento
 Versão |  O que foi inserido? | Data | Autor(es)| Revisor |
 ---- |----- | ---- | ---- | ---- |
-1.0| Criação do documento de storyboards|14/03/2022| [Caio Santos](https://github.com/caiobsantos) |  |]
-1.1| Adição das primeiras storyboards|14/03/2022| [Caio Santos](https://github.com/caiobsantos) |  |
+0.1| Criação do documento de storyboards|14/03/2022| [Caio Santos](https://github.com/caiobsantos) |  |]
+0.2| Adição das storyboards|14/03/2022| [Caio Santos](https://github.com/caiobsantos) |  |
+0.3| Adição da metodologia e conclusão|14/03/2022| [Caio Santos](https://github.com/caiobsantos) |  |
