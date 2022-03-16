@@ -30,7 +30,7 @@ As personas foram desenvolvidas a partir da definição dos perfis de usuários,
     <b>Status:      </b> Persona Primária   <br>
     <b>Idade:       </b> 39 anos            <br>
     <b>Profissão:   </b> Dona de Casa        <br>
-    <b>Objetivos:   </b> Valéria teve sua casa destruída pelas chuvas e enchentes do Rio Cachoeira no ano passado. Seu principal objetivo é poder reconstruir sua casa e poder ter uma moradia tranquila novamente. Para isso, Valéria utiliza o site da Prefeitura de Itabuna para poder consultar se seu nome saiu na lista de beneficiados do Programa Auxílio Recomeço e para consultar a lista de lojas parceiras do auxílio. 
+    <b>Objetivos:   </b> Valéria teve sua casa destruída pelas chuvas e enchentes do Rio Cachoeira no ano passado. Seu principal objetivo é poder reconstruir sua casa e poder ter uma moradia tranquila novamente. Para isso, Valéria utiliza o site da Prefeitura de Itabuna para poder consultar se seu nome saiu na lista de beneficiados do Programa Auxílio Recomeço e para consultar a lista de lojas parceiras do auxílio, além de acessar a ouvidoria para registrar manifestações. 
     </p> </td>
   </tr>
   <tr>
@@ -50,7 +50,7 @@ As personas foram desenvolvidas a partir da definição dos perfis de usuários,
     <b>Status:      </b> Persona Primária   <br>
     <b>Idade:       </b> 56 anos            <br>
     <b>Profissão:   </b> Aposentado         <br>
-    <b>Objetivos:   </b> Gilberto é um recém aposentado e deseja aproveitar seu tempo livre para curtir a família, principalmente seus netos. Apesar de não dominar muito bem as tecnologias atuais, Gilberto é capaz de acessar websites no seu computador, onde ele gosta de ver as notícias e jogar jogos de carta online. Para Gilberto, é importante acessar o site da prefeitura para ler as notícias da cidade e saber informações do IPTU e de outros tributos.
+    <b>Objetivos:   </b> Gilberto é um recém aposentado e deseja aproveitar seu tempo livre para curtir a família, principalmente seus netos. Apesar de não dominar muito bem as tecnologias atuais, Gilberto é capaz de acessar websites no seu computador, onde ele gosta de ver as notícias e jogar jogos de carta online. Para Gilberto, é importante acessar o site da prefeitura para ler as notícias da cidade e saber informações do IPTU e de outros tributos, além de utilizar a função de validar nota fiscal eletrônica.
     </p> </td>
   </tr>
   <tr>
@@ -71,7 +71,7 @@ As personas foram desenvolvidas a partir da definição dos perfis de usuários,
     <b>Status:      </b> Persona Primária   <br>
     <b>Idade:       </b> 44 anos            <br>
     <b>Profissão:   </b> Dona da padaria Pedacinho do Céu <br>
-    <b>Objetivos:   </b> Fabiana é uma empresária e mãe de 2 filhos, conhecida na cidade de Itabuna por sua padaria Pedacinho do Céu. Tem um conhecimento moderado das tecnologias adquirido após anos mantendo seu próprio blog sobre astrologia. Ela utiliza o site da prefeitura para acessar o Programa de Apoio ao Trabalhador e às Empresas, a fim de contratar mão de obra qualificada para o seu negócio.
+    <b>Objetivos:   </b> Fabiana é uma empresária e mãe de 2 filhos, conhecida na cidade de Itabuna por sua padaria Pedacinho do Céu. Tem um conhecimento moderado das tecnologias adquirido após anos mantendo seu próprio blog sobre astrologia. Ela utiliza o site da prefeitura para acessar o Programa de Apoio ao Trabalhador e às Empresas, a fim de contratar mão de obra qualificada para o seu negócio, e para consultar diversos tributos.
     </p> </td>
   </tr>
   <tr>
@@ -110,3 +110,4 @@ Versão |  O que foi inserido? | Data | Autor(es)| Revisor |
 ---- |----- | ---- | ---- | ---- |
 1.0| Criação do documento de personas |23/02/2022| [Caio Santos](https://github.com/caiobsantos) | [Arthur Alves de Matos](https://github.com/Arthur-Gaudium) |
 2.0| Adição das Pesonas e Antipersona |24/02/2022| [Caio Santos](https://github.com/caiobsantos) e [Vinicius Roriz](https://github.com/viniciusroriz) | [Arthur Alves de Matos](https://github.com/Arthur-Gaudium) |
+3.0| Correções sugeridas | 15/03/2022 | [Vinicius Roriz](https://github.com/viniciusroriz)
