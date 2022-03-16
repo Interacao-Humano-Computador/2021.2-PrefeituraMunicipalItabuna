@@ -32,4 +32,4 @@ recomendações de correção
 
 Versão |  O que foi inserido? | Data | Autor(es)| Revisor
 ---- |----- | ---- | ---- | ----
-0.1 | Criação do documento e preenchimento dos dados  |12/03/2022| [Ciro](https://github.com/ciro-c) | []()
+0.1 | Criação do documento e preenchimento dos dados  |12/03/2022| [Ciro](https://github.com/ciro-c) | [Alan Marques](https://github.com/alan-ms)
