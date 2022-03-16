@@ -8,13 +8,13 @@
 
 ## 2. Objetivo
 <p align='justify'>
-    O objetivo da utilização de protótipos de baixa-fidelidade como os storyboards durante o nível 1 da fase de Design, avaliação e desenvolvimento do Ciclo de vida de Mayhew é criar modelos conceituais que vão servir como insumo para a realização de avaliações e validações do sistema.
+    O objetivo da utilização de protótipos de baixa-fidelidade como os storyboards durante o nível 1 da fase de Design, avaliação e desenvolvimento do <a href="https://interacao-humano-computador.github.io/2021.2-PrefeituraMunicipalItabuna/#/planejamento/processo_design?id=_1-engenharia-de-usabilidade-de-mayhew">Ciclo de vida de Mayhew</a> é criar modelos conceituais que vão servir como insumo para a realização de avaliações e validações do sistema.
 <p>
 
 
 ## 3. Metodologia
 <p align='justify'>
-    Para desenvolver as storyboards, utilizamos como base o documento de análise de tarefas e as personas do projeto. Assim, foram definidas as tarefas realizadas neste documento, assim como possíveis cenários, ambientes e os atores das histórias.
+    Para desenvolver as storyboards, utilizamos como base o documento de <a href="https://interacao-humano-computador.github.io/2021.2-PrefeituraMunicipalItabuna/#/analise-de-requisitos/analise-de-tarefas">análise de tarefas</a> e as <a href="https://interacao-humano-computador.github.io/2021.2-PrefeituraMunicipalItabuna/#/analise-de-requisitos/personas">personas</a> do projeto. Assim, foram definidas as tarefas realizadas neste documento, assim como possíveis cenários, ambientes e os atores das histórias.
 <p>
 <p align='justify'>
     A ferramenta utilizada para a elaboração das storyboards foi a plataforma <a href="https://www.storyboardthat.com/pt">Storyboardthat</a>.
