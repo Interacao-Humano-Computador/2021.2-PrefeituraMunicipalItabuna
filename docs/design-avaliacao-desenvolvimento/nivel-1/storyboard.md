@@ -8,7 +8,7 @@
 
 ## 2. Objetivo
 <p align='justify'>
-    O objetivo da utilização de protótipos de baixa-fidelidade como os storyboards durante o nível 1 da fase de Design, avaliação e desenvolvimento do Ciclo de vida de Mayhew é criar modelos conceituais que vão servir como insumo para a realização de avaliações e validações do sistema.
+    O objetivo da utilização de protótipos de baixa-fidelidade como os storyboards durante o nível 1 da fase de Design, avaliação e desenvolvimento do [Ciclo de vida de Mayhew](https://interacao-humano-computador.github.io/2021.2-PrefeituraMunicipalItabuna/#/planejamento/processo_design?id=_1-engenharia-de-usabilidade-de-mayhew) é criar modelos conceituais que vão servir como insumo para a realização de avaliações e validações do sistema.
 <p>
 
 
