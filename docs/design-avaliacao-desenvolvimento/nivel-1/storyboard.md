@@ -61,7 +61,7 @@
 ## 7. Tabela de Versionamento
 Versão |  O que foi inserido? | Data | Autor(es)| Revisor |
 ---- |----- | ---- | ---- | ---- |
-0.1| Criação do documento de storyboards|14/03/2022| [Caio Santos](https://github.com/caiobsantos) |  |]
-0.2| Adição das storyboards|15/03/2022| [Caio Santos](https://github.com/caiobsantos) |  |
-0.3| Adição da metodologia e conclusão|15/03/2022| [Caio Santos](https://github.com/caiobsantos) |  |
-0.4| Adição de mais storyboards|15/03/2022| [Caio Santos](https://github.com/caiobsantos) |  |
+0.1| Criação do documento de storyboards|14/03/2022| [Caio Santos](https://github.com/caiobsantos) | [Alan Marques](https://github.com/alan-ms) |]
+0.2| Adição das storyboards|15/03/2022| [Caio Santos](https://github.com/caiobsantos) | [Alan Marques](https://github.com/alan-ms) |
+0.3| Adição da metodologia e conclusão|15/03/2022| [Caio Santos](https://github.com/caiobsantos) | [Alan Marques](https://github.com/alan-ms) |
+0.4| Adição de mais storyboards|15/03/2022| [Caio Santos](https://github.com/caiobsantos) | [Alan Marques](https://github.com/alan-ms) |
