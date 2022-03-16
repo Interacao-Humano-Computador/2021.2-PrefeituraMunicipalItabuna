@@ -58,14 +58,14 @@ Figura 1 - Diagrama HTA.
 
 |Objetivos/Operações| Problemas e recomendações|
 |---|---|
-|0. Validar Nota Fiscal Eletrônica||
+|0. Validar Nota Fiscal Eletrônica| nenhum|
 |1. Acessar o site da prefeitura de Itabuna|input: endereço do site|
 |2. Selecionar na barra de tarefas ou no menu suspenso de atalhos a opção Nota Fiscal Eletrônica| recomendação: remover o menu suspenso de atalhos ou o posicionar no final da página|
-|2.1 Selecionar a opção Validar NFS-e||
+|2.1 Selecionar a opção Validar NFS-e|nenhum|
 |2.1.1 Inserir os dados para realização da busca|input: CPF ou CNPJ, número da NFS-e, Código de verificação|
-|2.1.2 Efetuar a verificação do Captcha||
-|2.1.3 Selecionar a opção Buscar||
-|3. Realizar login no site||
+|2.1.2 Efetuar a verificação do Captcha|nenhum|
+|2.1.3 Selecionar a opção Buscar|nenhum|
+|3. Realizar login no site|input: credenciais do usuário|
 
 Tabela 2 - Tabela HTA. Autor: Vinícius Lima.
 
@@ -83,4 +83,5 @@ Versão |  O que foi inserido? | Data | Autor(es)| Revisor
 ---- |----- | ---- | ---- | ----
 0.1 | Criação do documento, introdução e análise hierárquica |26/02/2022| [Alan Marques](https://github.com/alan-ms) | [Ciro](https://github.com/ciro-c)
 0.2 | Adição de tabelas e diagramas de análise | 27/02/2022| [Vinícius Lima](https://github.com/vinelime) | [Ciro](https://github.com/ciro-c)
-0.3 | Inserção das referências bibliográficas |26/02/2022| [Alan Marques](https://github.com/alan-ms) | [Ciro](https://github.com/ciro-c)
+0.3 | Inserção das referências bibliográficas |26/02/2022| [Alan Marques](https://github.com/alan-ms) | [Ciro](https://github.com/ciro-c)|
+0.4| Correções sugeridas | 15/03/2022 | [Vinicius Roriz](https://github.com/viniciusroriz)|
