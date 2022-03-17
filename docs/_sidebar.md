@@ -16,7 +16,7 @@
 <pre style="font-family: Source Sans Pro,Helvetica Neue,Arial,sans-serif;">     Design, Avaliação e Desenvolvimento</pre>
 
 - Nivel 1
- * [Análise de tarefas](./design-avaliacao-desenvolvimento/nivel-1/analise-de-tarefas.md)
+ * [Planejamento da análise de tarefas](./design-avaliacao-desenvolvimento/nivel-1/analise-de-tarefas.md)
  * [Storyboard](./design-avaliacao-desenvolvimento/nivel-1/storyboard.md)
  * [Planejamento da Avaliação - Storyboard](./design-avaliacao-desenvolvimento/nivel-1/planejamento-avaliacao-storyboard.md)
 
