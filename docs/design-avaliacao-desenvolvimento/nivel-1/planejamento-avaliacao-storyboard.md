@@ -13,7 +13,7 @@
   Nele contém as informações para que o avaliador possa executar a avaliação com vários usuários.
 </p>
 
-## 3. Métologia
+## 3. Metodologia
 <p align='justify'>
   O método escolhido pelo grupo para fazer a avaliação do storyboard foi o <b>questionário</b> por ser simples de aplicar e recolher as informações acerca do storyboard.
   O questionário será aplicado via google form por ser fácil a sua aplicação e recolhimento dos dados.
@@ -27,7 +27,7 @@
   Para a responder o questionário, foram escolhida pessoas que tenha os mesmo perfil de usuário descritos anteriomente no projeto.
 </p>
 
-## 5. Termo de concetimento
+## 5. Termo de consentimento
 Somos o grupo 6, período eletivo 2021.2 da disciplina de Interação Humano Computador da Universidade de Brasília, e estamos realizando umaa avaliação dos Storyboards com os cenários de Realização de Manifestação e Validação de NFS-e no site da Prefeitura Múnicipal da Itabuna.
 
 Os dados objetidos através desse questionário destinam-se estritamente a atividade de avaliação acerca dos Storyboards desenvolvidos na disciplina de IHC.
@@ -38,7 +38,7 @@ Nossa equipe encontra-se disponível para contato através do e-mail 190010495@a
 De posse dessas informações, gostaríamos que você comunicasse em alto e bom som umas das alternativas abaixo:
 
 Sim, dou meu consentimento para o uso das informações.
-Não, dou meu consentimento para o uso das informações.
+Não dou meu consentimento para o uso das informações.
 
 ## 6. Perguntas
 <p align='justify'>
