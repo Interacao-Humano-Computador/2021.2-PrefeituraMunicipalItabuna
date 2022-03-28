@@ -21,10 +21,10 @@
 
 ## 4. Preparação
 <p align='justify'>
-  Para realizar a aplicação do questionário via Foogle Forms, será aplicado uma termo de consentimento para que a grupo possa utilizar as informações obtidas.
+  Para realizar a aplicação do questionário via Google Forms, será aplicado uma termo de consentimento para que a grupo possa utilizar as informações obtidas.
 </p>
 <p align='justify'>
-  Para responder o questionário, foram escolhida pessoas que tenha os mesmo perfil de usuário descritos anteriomente no projeto.
+  Para responder o questionário, foram escolhidas pessoas que tenha os mesmo perfil de usuário descritos anteriomente no projeto.
 </p>
 
 ## 5. Termo de consentimento
