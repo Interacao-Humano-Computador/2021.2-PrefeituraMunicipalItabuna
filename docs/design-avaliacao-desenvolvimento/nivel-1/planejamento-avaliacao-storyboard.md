@@ -16,15 +16,13 @@
 ## 3. Metodologia
 <p align='justify'>
   O método escolhido pelo grupo para fazer a avaliação do storyboard foi o <b>questionário</b> por ser simples de aplicar e de recolher as informações acerca do storyboard.
-  O questionário será aplicado via Google Forms por ser fácil a sua aplicação e recolhimento dos dados.
+  O questionário será aplicado via <a href="https://workspace.google.com/intl/pt-BR/products/forms/?utm_source=google&utm_medium=cpc&utm_campaign=latam-BR-all-pt-dr-bkws-all-all-trial-e-dr-1011272-LUAC0011908&utm_content=text-ad-none-any-DEV_c-CRE_477535133211-ADGP_Hybrid%20%7C%20BKWS%20-%20MIX%20%7C%20Txt%20~%20Forms-KWID_43700057676889044-kwd-10647024857&utm_term=KW_google%20forms-ST_google%20forms&gclid=CjwKCAjwuYWSBhByEiwAKd_n_nCvRKXuM7PhHuduV0BKCiPI8cnHPGnbvLv-whphDlhHsd74msOsBxoC7CMQAvD_BwE&gclsrc=aw.ds">Google Forms</a> por ser fácil a sua aplicação e recolhimento dos dados.
 </p>
 
 ## 4. Preparação
 <p align='justify'>
   Para realizar a aplicação do questionário via Google Forms, será aplicado uma termo de consentimento para que a grupo possa utilizar as informações obtidas.
-</p>
-<p align='justify'>
-  Para responder o questionário, foram escolhidas pessoas que tenha os mesmo perfil de usuário descritos anteriomente no projeto.
+    Para responder o questionário, foram escolhidas 5 pessoas que tenha os mesmo perfil de usuário descritos anteriomente no projeto.
 </p>
 
 ## 5. Termo de consentimento
@@ -37,8 +35,8 @@ A entrevista pode ser interrompida a qualquer momento, segundo a sua disponibili
 Nossa equipe encontra-se disponível para contato através do e-mail 190010495@aluno.unb.br.
 De posse dessas informações, gostaríamos que você comunicasse em alto e bom som umas das alternativas abaixo:
 
-Sim, dou meu consentimento para o uso das informações.
-Não dou meu consentimento para o uso das informações.
+- Sim, dou meu consentimento para o uso das informações.
+- Não dou meu consentimento para o uso das informações.
 
 ## 6. Perguntas
 <p align='justify'>
@@ -52,7 +50,13 @@ Serão realizadas as seguintes perguntas para avaliação do storyboard:
 | 3 | O storyboard com o cenário de validação de NFS-e condiz com a realidade atual? | Sim - Não |
 | 4 | Para o storyboard de validação de NFS-e, há alguma sugestão de melhoria? | Resposta discursiva |
 
-## 7. Versionamento
+## 7. Conclusão
+<p align='justify'>
+    Com esse documento o avaliador vai aplicar o poder, para e poder verificar a análise dos resultados se o storybord atual condiz com a real uso do site da Prefeitura de Itabuna na data que foi feita a pesquisa.
+</p>
+
+## 8. Versionamento
 Versão |  O que foi inserido? | Data | Autor(es)| Revisor |
 ---- |----- | ---- | ---- | ---- |
 0.1| Elaboração do documento | 16/03/2022 | [Alan Marques](https://github.com/alan-ms) | [Vinicius Lima](https://github.com/vinelime) |
+0.2| Correção de formatação e inserção da conclusão | 28/03/2022 | [Alan Marques](https://github.com/alan-ms) |  |
