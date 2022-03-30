@@ -46,8 +46,15 @@ O documento relatando de resultados da avaliação deve conter o seguinte:
 
 - Descrição das tarefas analisadas.
 
-## 6. Versionamento
+## 7. Conclusão
+<p align='justify'>
+    Com esse documento o avaliador vai aplicar o poder, para e poder verificar a análise dos resultados se o storybord atual condiz com a real uso do site da Prefeitura de Itabuna na data que foi feita a pesquisa.
+</p>
+
+## 8. Versionamento
 Versão |  O que foi inserido? | Data | Autor(es)| Revisor |
 ---- |----- | ---- | ---- | ---- |
 0.1| Elaboração do documento | 16/03/2022 | [Alan Marques](https://github.com/alan-ms) | [Vinicius Lima](https://github.com/vinelime) |
-0.2| Alterações | 28/03/2022| [Vinicius Roriz](https://github.com/viniciusroriz)| |
+0.2| Correção de formatação e inserção da conclusão | 28/03/2022 | [Alan Marques](https://github.com/alan-ms) | [Ciro](https://github.com/ciro-c) |
+0.3| Altera o método para inspeção | 28/03/2022| [Vinicius Roriz](https://github.com/viniciusroriz)| |
+
