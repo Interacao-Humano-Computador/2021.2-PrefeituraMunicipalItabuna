@@ -15,44 +15,39 @@
 
 ## 3. Metodologia
 <p align='justify'>
-  O método escolhido pelo grupo para fazer a avaliação do storyboard foi o <b>questionário</b> por ser simples de aplicar e de recolher as informações acerca do storyboard.
-  O questionário será aplicado via Google Forms por ser fácil a sua aplicação e recolhimento dos dados.
+  O método escolhido pelo grupo para fazer a avaliação do storyboard foi a <b>inspeção</b> por ser possível de realizar sem ter contato com moradores reais da cidade.
+  Para isso, será atribuido um integrante do grupo para representar cada persona descrita nos Storyboards.
 </p>
 
-## 4. Preparação
-<p align='justify'>
-  Para realizar a aplicação do questionário via Google Forms, será aplicado uma termo de consentimento para que a grupo possa utilizar as informações obtidas.
-</p>
-<p align='justify'>
-  Para responder o questionário, foram escolhidas pessoas que tenha os mesmo perfil de usuário descritos anteriomente no projeto.
-</p>
-
-## 5. Termo de consentimento
-Somos o grupo 6, período eletivo 2021.2 da disciplina de Interação Humano Computador da Universidade de Brasília, e estamos realizando umaa avaliação dos Storyboards com os cenários de Realização de Manifestação e Validação de NFS-e no site da Prefeitura Múnicipal da Itabuna.
-
-Os dados objetidos através desse questionário destinam-se estritamente a atividade de avaliação acerca dos Storyboards desenvolvidos na disciplina de IHC.
-Nossa equipe tem o compromisso de divulgar os resultados de nossas pesquisas para o docente. A divulgação desses resultados pauta-se no respeito à sua privacidade, e a preservação de seus dados pessoais serão preservados em quaisquer documentos que elaborarmos, apenas utilizando da sua identificação básica, nome e idade, e ocupação.
-O consentimento para a entrevista é uma escolha livre, feita mediante a prestação de todos os esclarecimentos necessários sobre a pesquisa.
-A entrevista pode ser interrompida a qualquer momento, segundo a sua disponibilidade e vontade.
-Nossa equipe encontra-se disponível para contato através do e-mail 190010495@aluno.unb.br.
-De posse dessas informações, gostaríamos que você comunicasse em alto e bom som umas das alternativas abaixo:
-
-Sim, dou meu consentimento para o uso das informações.
-Não dou meu consentimento para o uso das informações.
-
-## 6. Perguntas
+## 4. Perguntas
 <p align='justify'>
 Serão realizadas as seguintes perguntas para avaliação do storyboard:
 </p>
 
-| Índice | Pergunta | Possível Resposta |
-| ------ | -------- | ----------------- |
-| 1 | O storyboard com o cenário de realização de uma manifestação condiz com a realidade atual? | Sim - Não |
-| 2 | Para storyboard de realização de uma manifestação, há alguma sugestão de melhoria? | Resposta discursiva |
-| 3 | O storyboard com o cenário de validação de NFS-e condiz com a realidade atual? | Sim - Não |
-| 4 | Para o storyboard de validação de NFS-e, há alguma sugestão de melhoria? | Resposta discursiva |
+### Storyboard 1 e 2
+<b>Objetivo:</b> Verificar se o usuário é capaz de realizar uma manifestação no site da prefeitura
 
-## 7. Versionamento
+<b>Pergunta:</b> A função de realizar manifestação está disponível de forma que um usuário que não é familiarizado com tecnologias consiga encontrá-la sem dificuldade?
+
+### Storyboard 3 e 4
+<b>Objetivo:</b> Verificar se o usuário é capaz de validar notas fiscais eletrônicas no site da prefeitura
+
+<b>Pergunta:</b> A função de validar notas fiscais eletrônicas está disponível de forma que um usuário com baixa visão consiga encontrá-la sem dificuldade?
+
+## 5. Relato dos Resultados
+
+O documento relatando de resultados da avaliação deve conter o seguinte:
+
+- Objetivos e escopo da avaliação;
+
+- Descrição do método de percurso cognitivo, incluindo as perguntas que devem ser respondidas;
+
+- Perfil dos usuários e avaliadores;
+
+- Descrição das tarefas analisadas.
+
+## 6. Versionamento
 Versão |  O que foi inserido? | Data | Autor(es)| Revisor |
 ---- |----- | ---- | ---- | ---- |
 0.1| Elaboração do documento | 16/03/2022 | [Alan Marques](https://github.com/alan-ms) | [Vinicius Lima](https://github.com/vinelime) |
+0.2| Alterações | 28/03/2022| [Vinicius Roriz](https://github.com/viniciusroriz)| |
