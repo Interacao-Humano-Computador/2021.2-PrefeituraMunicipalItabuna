@@ -59,4 +59,4 @@ Serão realizadas as seguintes perguntas para avaliação do storyboard:
 Versão |  O que foi inserido? | Data | Autor(es)| Revisor |
 ---- |----- | ---- | ---- | ---- |
 0.1| Elaboração do documento | 16/03/2022 | [Alan Marques](https://github.com/alan-ms) | [Vinicius Lima](https://github.com/vinelime) |
-0.2| Correção de formatação e inserção da conclusão | 28/03/2022 | [Alan Marques](https://github.com/alan-ms) |  |
+0.2| Correção de formatação e inserção da conclusão | 28/03/2022 | [Alan Marques](https://github.com/alan-ms) | [Ciro](https://github.com/ciro-c) |
