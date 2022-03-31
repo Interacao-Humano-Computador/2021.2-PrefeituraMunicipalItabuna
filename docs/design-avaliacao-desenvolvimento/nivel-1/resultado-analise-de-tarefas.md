@@ -1,4 +1,6 @@
-## 1. Instrodução
+# Resultado da Análise de Tarefas
+
+## 1. Introdução
 <p align='justify'>
   Esse documento se destina a apresentar os resultado das avaliações heurísticas realizadas.
 </p>
@@ -8,7 +10,7 @@
   Assim como descrito na análise de tarefas, o escopo da avaliação será dado em volta do fluxo de navegação do usuário no site.
 </p>
 
-## 3. Diretrizes utilizado;
+## 3. Diretrizes utilizadas
 <p align='justify'>
  As diretrizes usadas como guias foram:
 </p>
@@ -62,7 +64,7 @@ as mensagens de erro devem ser expressas em linguagem simples (sem códigos inde
  embora seja melhor que um sistema possa ser utilizado sem documentação, é necessário oferecer ajuda e documentação de alta qualidade. Tais informações devem ser facilmente encontradas, focadas na tarefa do usuário, enumerar passos concretos a serem realizados e não ser muito extensas.
   </p>
 
-## 4. Problemas encontrados;
+## 4. Problemas encontrados
 <figure align='center'>
   <img src="./assets/imagens/resultadoAnalise/barraDeTarefas.png">
 </figure>
@@ -100,13 +102,13 @@ Tabela 7 - avaliação heurística
 </figure>
 Tabela 8 - avaliação heurística 
 
-## 5. Referências
+## 5. Referências Bibliográficas
         Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação
         Humano-Computador e Experiência do usuário. Autopublicação.
 
 
-##  Versionamento
+##  6. Tabela de Versionamento
 Versão |  O que foi inserido? | Data | Autor(es)| Revisor |
 ---- |----- | ---- | ---- | ---- |
 0.1| Criação do documento | 22/03/2022 | [Alan Marques](https://github.com/alan-ms) | [Ciro](https://github.com/ciro-c)  |
-0.2 |  Preenchimento dos dados  |29/03/2022| [Ciro](https://github.com/ciro-c) | 
+0.2 |  Preenchimento dos dados  |29/03/2022| [Ciro](https://github.com/ciro-c) | [Caio Santos](https://github.com/caiobsantos)|
