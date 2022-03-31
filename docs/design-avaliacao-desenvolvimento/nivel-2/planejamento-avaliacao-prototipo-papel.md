@@ -151,4 +151,6 @@ Por fim, será criado um documento comunicando aos interessados como foi realiza
 
 Versão |  O que foi inserido? | Data | Autor(es)| Revisor |
 ---- |----- | ---- | ---- | ---- |
-0.1| Criação do documento|30/03/2022| [Caio Santos](https://github.com/caiobsantos) | |
+0.1| Criação do documento |30/03/2022| [Caio Santos](https://github.com/caiobsantos) | [Arthur Alves de Matos](https://github.com/Arthur-Gaudium) |
+0.2| Descrição das tarefas |30/03/2022| [Arthur Alves de Matos](https://github.com/Arthur-Gaudium) | [Alan Marques](https://github.com/alan-ms) |
+0.3| Descrição das tarefas |30/03/2022| [Alan Marques](https://github.com/alan-ms) | [Arthur Alves de Matos](https://github.com/Arthur-Gaudium) |

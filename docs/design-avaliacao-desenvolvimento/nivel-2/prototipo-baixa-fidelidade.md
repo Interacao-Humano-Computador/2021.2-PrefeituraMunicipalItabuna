@@ -16,4 +16,5 @@ A seguir encontra-se o protótipo de baixa fidelidade criados com a ferramenta f
 ## 4. Versionamento
 Versão |  O que foi inserido? | Data | Autor(es)| Revisor
 ---- |----- | ---- | ---- | ----
-0.1 | Criação do documento |12/03/2022|  | 
+0.1 | Criação do documento |30/03/2022| [Alan Marques](https://github.com/alan-ms) | [Arthur Alves de Matos](https://github.com/Arthur-Gaudium) |
+0.2| Elaboração do documento | 30/03/2022 | [Alan Marques](https://github.com/alan-ms) | [Arthur Alves de Matos](https://github.com/Arthur-Gaudium) |
