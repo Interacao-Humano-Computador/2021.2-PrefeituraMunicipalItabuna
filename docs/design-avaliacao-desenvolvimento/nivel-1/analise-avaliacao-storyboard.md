@@ -165,5 +165,5 @@ Fabiana deseja validar suas notas fiscais eletrônicas através do site da prefe
 
 Versão |  O que foi inserido? | Data | Autor(es)| Revisor |
 ---- |----- | ---- | ---- | ---- |
-0.1| Elaboração do documento | 30/03/2022 |[Vinicius Roriz](https://github.com/viniciusroriz)|
+0.1| Elaboração do documento | 30/03/2022 |[Vinicius Roriz](https://github.com/viniciusroriz)|[Caio Santos](https://github.com/caiobsantos)|
 
