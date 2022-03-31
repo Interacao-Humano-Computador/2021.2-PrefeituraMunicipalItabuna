@@ -35,7 +35,7 @@ Durante a fase de preparação foram definidas as tarefas que os participantes i
 
 ### 4.1 Tarefas
 
-Definição das tarefas que os entrevistados realizarao no prototipo
+Definição das tarefas que os entrevistados realizarao no prototipo.
 
 ### 4.2 Protótipo de papel
 
