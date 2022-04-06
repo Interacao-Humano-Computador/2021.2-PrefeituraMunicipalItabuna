@@ -49,4 +49,4 @@ Como destacado nas seção de Análise de Perfis, os usuários do site da Prefei
 Versão |  O que foi inserido? | Data | Autor(es)| Revisor |
 ---- |----- | ---- | ---- | ---- |
 1.0| Criação do documento |11/03/2022| [Arthur Alves de Matos](https://github.com/Arthur-Gaudium) | [Caio Santos](https://github.com/caiobsantos)|
-1.1 | Correção gramatical | 06/04/2022 | [Ciro](https://github.com/ciro-c) | []()
+1.1 | Correção gramatical | 06/04/2022 | [Ciro](https://github.com/ciro-c) | [Arthur Matos](https://github.com/Arthur-Gaudium)
