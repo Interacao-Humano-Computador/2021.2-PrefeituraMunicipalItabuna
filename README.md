@@ -4,7 +4,7 @@
 
 ## Sobre o projeto
 <p align="justify">
-  Este repositorio se destina à matéria de Interação Humano-Computador da Universidade de Brasília. Tem como objetivo analisar o site da <a href="http://www.itabuna.ba.gov.br/">Prefeitura Municipal de Itabuna</a>, aplicando os conceitos aprendidos no decorrer da matéria.
+  Este repositorio se destina à matéria de Interação Humano-Computador da Universidade de Brasília. Tem como objetivo analisar o site da <a href="https://web.archive.org/web/20220208082252/https://prefeituradeitabuna.com.br/">Prefeitura Municipal de Itabuna</a>, aplicando os conceitos aprendidos no decorrer da matéria.
 </p>
 
 ## Equipe
