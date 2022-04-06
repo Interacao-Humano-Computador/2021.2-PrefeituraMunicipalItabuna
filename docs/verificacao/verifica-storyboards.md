@@ -30,4 +30,4 @@ Foi concluído que devem ser adicionadas tabelas com as atividades necessárias 
 ## 5. Tabela de Versionamento
 Versão |  O que foi inserido? | Data | Autor(es)| Revisor |
 ---- |----- | ---- | ---- | ---- |
-0.1| Criação do documento | 06/04/2022| [Vinícius Roriz](https://github.com/viniciusroriz) | []() |
+0.1| Criação do documento | 06/04/2022| [Vinícius Roriz](https://github.com/viniciusroriz) | [Ciro Costa](https://github.com/ciro-c) |
