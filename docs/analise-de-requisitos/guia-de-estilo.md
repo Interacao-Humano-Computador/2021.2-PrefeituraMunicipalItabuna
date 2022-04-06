@@ -36,7 +36,7 @@ A página utiliza um grid pouco intuitivo e de difícil localização do que se 
 </figure>
 
 ## 3.2 Janelas
-A navegação do site é feita em sua maioria por hyperlinks que levam à outras páginas com funções específicas para cada um dos serviços disponíveis. Estas páginas, entretanto, não seguem todas o mesmo padrão, com diferenças de botões, cores e layouts.
+A navegação do site é feita em sua maioria por hiperlinks que levam à outras páginas com funções específicas para cada um dos serviços disponíveis. Estas páginas, entretanto, não seguem todas o mesmo padrão, com diferenças de botões, cores e layouts.
 
 ### 3.3 Tipografia
 
@@ -75,7 +75,7 @@ Ao se passar o mouse por cima de um artigo, é removido o obscurecimento da imag
 ## 4 Elementos de interação
 
 ### 4.1 Estilos de interação
-O site utiliza de uma série de hyperlinks para outras páginas como modo principal de interação. Estes hyperlinks existem tanto na barra de atalhos como nos banners. Alguns dos acessos à diferentes sites aparecem em mais de um lugar na página e nem todos os banners informam claramente a qual função que eles levam. 
+O site utiliza de uma série de hyperlinks para outras páginas como modo principal de interação. Estes hiperlinks existem tanto na barra de atalhos como nos banners. Alguns dos acessos à diferentes sites aparecem em mais de um lugar na página e nem todos os banners informam claramente a qual função que eles levam. 
 
 ### 4.2 Seleção de um estilo
 Para a montagem dos protótipos, teremos um foco em eliminar todas as redundâncias de links para outras páginas, simplificar e melhorar a visualização da barra de atalhos e aumentar a clareza das funções dos banners assim como separar devidamente os grids de notícia para que o público consiga discernir mais facilmente qual rota tomar para realizar sua tarefa.
@@ -141,3 +141,4 @@ Versão |  O que foi inserido? | Data | Autor(es)| Revisor
 0.1 | Criação do documento, introdução, Descrição do ambiente de trabalho, Inicio dos elementos de interface e Elementos de interação |12/03/2022| [Ciro](https://github.com/ciro-c) | [Arthur Alves de Matos](https://github.com/Arthur-Gaudium)
 0.2 | Adição dos tópicos dos Elementos de Interface e Elementos de Interação |12/03/2022| [Vinicius Lima](https://github.com/vinelime) | [Vinicius Roriz](https://github.com/viniciusroriz)
 0.3 | Adição da seção 5, 6, e 7, e do tópico 3.6 | 12/03/2022 | [Vinicius Roriz](https://github.com/viniciusroriz)| [Arthur Alves de Matos](https://github.com/Arthur-Gaudium)
+0.4 | Correção gramatical | 06/04/2022 | [Ciro](https://github.com/ciro-c) | []()

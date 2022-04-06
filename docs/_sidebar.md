@@ -37,4 +37,5 @@
 - [Princípios Gerais do Projetos](./verificacao/verifica-principios-gerais.md)
 - [Análise de Tarefas](./verificacao/verifica-analise-tarefas.md)
 - [Storyboards](./verificacao/verifica-storyboards.md)
-
+- [Planejamento análise de Tarefas](./verificacao/verifica-planejamento-analise-de-tarefas.md)
+- [Storyboards](./verificacao/verifica-analise-tarefas.md)
