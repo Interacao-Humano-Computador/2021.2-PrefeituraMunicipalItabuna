@@ -2,7 +2,7 @@
 
 ## 1. Introdução
 
-Esse documento busca verificar a [Análise de Tarefas](./verificacao/verifica-analise-tarefas.md) através do método de inspeção: Checklist. 
+Esse documento busca verificar a [Análise de Tarefas](/analise-de-requisitos/analise-de-tarefas.md), presente na análise de requisitos, através do método de inspeção: Checklist. 
 - Inspetor: [Vinícius Roriz](https://github.com/viniciusroriz).
 
 ## 2. Checklist

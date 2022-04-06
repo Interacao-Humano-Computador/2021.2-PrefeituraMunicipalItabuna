@@ -2,8 +2,8 @@
 
 ## 1. Introdução
 
-Esse documento busca verificar a documentação dos Perfis de Usuários através do método de inspeção: Checklist. 
-- Inspetor: Arthur Matos.
+Esse documento busca verificar a documentação dos [Perfis de Usuários](/analise-de-requisitos/perfil.md) através do método de inspeção: Checklist. 
+- Inspetor: [Arthur Matos](https://github.com/Arthur-Gaudium).
 
 ## 2. Checklist
 

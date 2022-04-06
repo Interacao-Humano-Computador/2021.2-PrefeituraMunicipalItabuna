@@ -2,7 +2,7 @@
 
 ## 1. Introdução
 
-Esse documento busca verificar a documentação dos [Princípios Gerais do Projetos](./verificacao/verifica-principios-gerais.md) através do método de inspeção: Checklist. 
+Esse documento busca verificar a documentação dos [Princípios Gerais do Projetos](/analise-de-requisitos/principios-gerais.md) através do método de inspeção: Checklist. 
 - Inspetor: [Arthur Matos](https://github.com/Arthur-Gaudium)
 
 ## 2. Checklist
@@ -14,11 +14,10 @@ Número | Pergunta | Resposta
 3| Os dados utilizados possuem fontes| Sim
 4| Os tópicos correspondem com os conteúdos apresentados? | Sim
 5| Existe uma conclusão para os dados coletados?| Sim
-6| Existe uma conclusão para os dados coletados?| Sim
 
 ## 3. Conclusão
 
-Devido à ausência de uma conclusão adequada, o documento foi corrigido e foi inserida uma conclusão.
+Não houveram erros estruturáis no documento em questão. Devido a isso, não foram
 
 ## 4. Referência Bibliográfica
     Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação
