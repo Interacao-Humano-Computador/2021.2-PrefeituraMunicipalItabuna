@@ -16,16 +16,16 @@
 <pre style="font-family: Source Sans Pro,Helvetica Neue,Arial,sans-serif;">     Design, Avaliação e Desenvolvimento</pre>
 
 - Nivel 1
- * [Planejamento da análise de tarefas](./design-avaliacao-desenvolvimento/nivel-1/analise-de-tarefas.md)
- * [Resultado da análise de tarefas](./design-avaliacao-desenvolvimento/nivel-1/resultado-analise-de-tarefas.md)
- * [Storyboard](./design-avaliacao-desenvolvimento/nivel-1/storyboard.md)
- * [Storyboard - Planejamento da Avaliação](./design-avaliacao-desenvolvimento/nivel-1/planejamento-avaliacao-storyboard.md)
- * [Storyboard - Relato da Avaliação](./design-avaliacao-desenvolvimento/nivel-1/analise-avaliacao-storyboard.md)
+- [Planejamento da análise de tarefas](./design-avaliacao-desenvolvimento/nivel-1/analise-de-tarefas.md)
+- [Resultado da análise de tarefas](./design-avaliacao-desenvolvimento/nivel-1/resultado-analise-de-tarefas.md)
+- [Storyboard](./design-avaliacao-desenvolvimento/nivel-1/storyboard.md)
+- [Storyboard - Planejamento da Avaliação](./design-avaliacao-desenvolvimento/nivel-1/planejamento-avaliacao-storyboard.md)
+- [Storyboard - Relato da Avaliação](./design-avaliacao-desenvolvimento/nivel-1/analise-avaliacao-storyboard.md)
 
 - Nivel 2
- * [Protótipo de Baixa Fidelidade](./design-avaliacao-desenvolvimento/nivel-2/prototipo-baixa-fidelidade.md)
- * [Planejamento da Avaliação do Protótipo de Baixa Fidelidade](./design-avaliacao-desenvolvimento/nivel-2/planejamento-avaliacao-prototipo-papel.md)
- * [Termo de Consentimento](./design-avaliacao-desenvolvimento/nivel-2/termo-de-consentimento.md)
+- [Protótipo de Baixa Fidelidade](./design-avaliacao-desenvolvimento/nivel-2/prototipo-baixa-fidelidade.md)
+- [Planejamento da Avaliação do Protótipo de Baixa Fidelidade](./design-avaliacao-desenvolvimento/nivel-2/planejamento-avaliacao-prototipo-papel.md)
+- [Termo de Consentimento](./design-avaliacao-desenvolvimento/nivel-2/termo-de-consentimento.md)
 
 <pre style="font-family: Source Sans Pro,Helvetica Neue,Arial,sans-serif;">     Apresentações</pre>
 
@@ -33,5 +33,6 @@
 
 <pre style="font-family: Source Sans Pro,Helvetica Neue,Arial,sans-serif;">     Verificação de Artefatos</pre>
 
+- [Perfil de usuários](./verificacao/verifica-perfil-usuarios.md)
 - [Análise de Tarefas](./verificacao/verifica-analise-tarefas.md)
 - [Storyboards](./verificacao/verifica-analise-tarefas.md)
