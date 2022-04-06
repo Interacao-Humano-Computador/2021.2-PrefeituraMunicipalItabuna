@@ -18,7 +18,7 @@ Número | Pergunta | Resposta
 
 ## 3. Conclusão
 
-Não houveram erros estruturáis no documento em questão. Devido a isso, não foram
+Não houveram erros estruturais no documento em questão. Devido a isso, não foi necessária a realização de correções no artefato.
 
 ## 4. Referência Bibliográfica
     Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação
