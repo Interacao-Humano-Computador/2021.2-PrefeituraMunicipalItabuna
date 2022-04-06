@@ -37,3 +37,8 @@
 <pre style="font-family: Source Sans Pro,Helvetica Neue,Arial,sans-serif;">     Apresentações</pre>
 
 - [Apresentações](/apresentacoes/apresentacoes.md)
+
+<pre style="font-family: Source Sans Pro,Helvetica Neue,Arial,sans-serif;">     Verificação de Artefatos</pre>
+
+- [Análise de Tarefas](./verificacao/verifica-analise-tarefas.md)
+- [Storyboards](./verificacao/verifica-analise-tarefas.md)
