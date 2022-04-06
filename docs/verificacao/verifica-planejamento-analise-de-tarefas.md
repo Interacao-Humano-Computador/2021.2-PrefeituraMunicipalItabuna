@@ -28,4 +28,4 @@ O único problema encontrado foi que não é apresentado título para o document
 ## 5. Tabela de Versionamento
 Versão |  O que foi inserido? | Data | Autor(es)| Revisor |
 ---- |----- | ---- | ---- | ---- |
-0.1| Criação do documento | 06/04/2022| [Ciro Costa](https://github.com/ciro-c) | []() |
+0.1| Criação do documento | 06/04/2022| [Ciro Costa](https://github.com/ciro-c) | [Arthur Matos](https://github.com/Arthur-Gaudium) |
