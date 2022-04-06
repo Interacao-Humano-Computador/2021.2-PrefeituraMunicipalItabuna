@@ -1,8 +1,8 @@
 # Verificação do Metas de usabilidade
 
 ## 1. Introdução
-Esse documento busca verificar as metas de usabilidade através do método de inspeção: Checklist. 
-- Inspetor: Ciro Costa.
+Esse documento busca verificar as [metas de usabilidade](../analise-de-requisitos/metas-usabilidade.md) através do método de inspeção: Checklist. 
+- Inspetor: [Ciro Costa](https://github.com/ciro-c)
 
 ## 2. Checklist
 
@@ -13,6 +13,7 @@ Número | Pergunta | Resposta
 3| Existe uma introdução ao conceito abordado?| Sim
 4| Os tópicos correspondem com os conteúdos apresentados?| Sim
 5| O documento segue o padrão estabelecido pelo grupo?| Sim
+5| As metas estão descritas de maneira de simples entendimento ?| Sim
 
 ## 3. Conclusão
 

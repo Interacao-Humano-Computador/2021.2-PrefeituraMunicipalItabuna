@@ -1,8 +1,8 @@
 # Verificação do Planejamento da Analise de tarefas
 
 ## 1. Introdução
-Esse documento busca verificar o planejamento da Analise de tarefas através do método de inspeção. 
-- Inspetor: Ciro Costa.
+Esse documento busca verificar o [planejamento da Analise de tarefas](../design-avaliacao-desenvolvimento/nivel-1/analise-de-tarefas.md) através do método de inspeção. 
+- Inspetor: [Ciro Costa](https://github.com/ciro-c)
 
 
 ## 2. Checklist
