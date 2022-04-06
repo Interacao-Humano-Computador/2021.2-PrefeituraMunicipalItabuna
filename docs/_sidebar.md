@@ -40,3 +40,5 @@
 - [Planejamento análise de Tarefas](./verificacao/verifica-planejamento-analise-de-tarefas.md)
 - [Guia de Estilo](./verificacao/verifica-guia-de-estilo.md)
 - [Metas de usabilidade](./verificacao/verifica-metas-de-usabilidade.md)
+- [Planejamento da Avaliação do Protótipo de Baixa Fidelidade](./verificacao/verifica-planejamento-avaliacao-prototipo-baixa-fidelidade.md)
+- [Protótipo de Baixa Fidelidade](./verificacao/verifica-prototipo-baixa-fidelidade.md)
