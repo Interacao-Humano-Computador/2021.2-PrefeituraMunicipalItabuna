@@ -2,8 +2,8 @@
 
 ## 1. Introdução
 
-Esse documento busca verificar a Análise de tarefas através do método de inspeção. 
-- Inspetor: Vinícius Roriz.
+Esse documento busca verificar a [Análise de Tarefas](./verificacao/verifica-analise-tarefas.md) através do método de inspeção: Checklist. 
+- Inspetor: [Vinícius Roriz](https://github.com/viniciusroriz).
 
 ## 2. Checklist
 

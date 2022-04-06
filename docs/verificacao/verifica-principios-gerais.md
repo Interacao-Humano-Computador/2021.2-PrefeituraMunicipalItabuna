@@ -2,8 +2,8 @@
 
 ## 1. Introdução
 
-Esse documento busca verificar a documentação dos Princípios Gerais do Projeto através do método de inspeção. 
-- Inspetor: Arthur Matos.
+Esse documento busca verificar a documentação dos [Princípios Gerais do Projetos](./verificacao/verifica-principios-gerais.md) através do método de inspeção: Checklist. 
+- Inspetor: [Arthur Matos](https://github.com/Arthur-Gaudium)
 
 ## 2. Checklist
 

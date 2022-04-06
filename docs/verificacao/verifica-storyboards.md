@@ -2,8 +2,8 @@
 
 ## 1. Introdução
 
-Esse documento busca verificar os Storyboards através do método de inspeção. 
-- Inspetor: Vinícius Roriz.
+Esse documento busca verificar os [Storyboards](./verificacao/verifica-storyboards.md) através do método de inspeção: Checklist. 
+- Inspetor: [Vinícius Roriz](https://github.com/viniciusroriz).
 
 ## 2. Checklist
 
