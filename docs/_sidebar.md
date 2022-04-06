@@ -34,5 +34,7 @@
 <pre style="font-family: Source Sans Pro,Helvetica Neue,Arial,sans-serif;">     Verificação de Artefatos</pre>
 
 - [Perfil de usuários](./verificacao/verifica-perfil-usuarios.md)
+- [Princípios Gerais do Projetos](./verificacao/verifica-principios-gerais.md)
 - [Análise de Tarefas](./verificacao/verifica-analise-tarefas.md)
-- [Storyboards](./verificacao/verifica-analise-tarefas.md)
+- [Storyboards](./verificacao/verifica-storyboards.md)
+

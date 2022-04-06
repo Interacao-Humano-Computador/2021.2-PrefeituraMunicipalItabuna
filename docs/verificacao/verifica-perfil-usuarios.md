@@ -2,7 +2,7 @@
 
 ## 1. Introdução
 
-Esse documento busca verificar a documentação dos Perfis de Usuários através do método de inspeção. 
+Esse documento busca verificar a documentação dos Perfis de Usuários através do método de inspeção: Checklist. 
 - Inspetor: Arthur Matos.
 
 ## 2. Checklist
