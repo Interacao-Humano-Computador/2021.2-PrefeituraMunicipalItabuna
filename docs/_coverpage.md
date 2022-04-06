@@ -2,7 +2,7 @@
 
 # Prefeitura de Itabuna-BA
 
-[Site](http://www.itabuna.ba.gov.br/)
+[Site](https://web.archive.org/web/20220208082252/https://prefeituradeitabuna.com.br/)
 
 <!-- bg -->
 ![](assets/imagens/itabuna.png)
