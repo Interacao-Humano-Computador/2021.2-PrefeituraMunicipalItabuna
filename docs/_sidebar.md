@@ -27,6 +27,13 @@
  * [Planejamento da Avaliação do Protótipo de Baixa Fidelidade](./design-avaliacao-desenvolvimento/nivel-2/planejamento-avaliacao-prototipo-papel.md)
  * [Termo de Consentimento](./design-avaliacao-desenvolvimento/nivel-2/termo-de-consentimento.md)
 
+<pre style="font-family: Source Sans Pro,Helvetica Neue,Arial,sans-serif;">     Verificações</pre>
+
+- [Planejamento da análise de tarefas](./verificacao/verificacao-planejamento-analise-de-tarefas.md)
+- [Storyboard](./verificacao/verifica-storyboards.md.md)
+- [Análise de tarefas](./verificacao/verifica-analise-tarefas.md.md)
+<!-- - [Planejamento da análise de tarefas](./verificacao/.md) -->
+
 <pre style="font-family: Source Sans Pro,Helvetica Neue,Arial,sans-serif;">     Apresentações</pre>
 
 - [Apresentações](/apresentacoes/apresentacoes.md)
