@@ -27,4 +27,4 @@ O único problema encontrado foi a utilização do termo “Hyperlink” invés 
 ## 5. Tabela de Versionamento
 Versão |  O que foi inserido? | Data | Autor(es)| Revisor |
 ---- |----- | ---- | ---- | ---- |
-0.1| Criação do documento | 06/04/2022| [@ciro-c](https://github.com/ciro-c) | []() |
+0.1| Criação do documento | 06/04/2022| [Ciro Costa](https://github.com/ciro-c) | []() |

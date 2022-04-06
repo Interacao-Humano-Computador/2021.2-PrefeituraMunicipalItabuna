@@ -61,8 +61,8 @@
 ## 7. Tabela de Versionamento
 Versão |  O que foi inserido? | Data | Autor(es)| Revisor |
 ---- |----- | ---- | ---- | ---- |
-0.1| Criação do documento de storyboards|14/03/2022| [Caio Santos](https://github.com/caiobsantos) | [Alan Marques](https://github.com/alan-ms) |
-0.2| Adição das storyboards|15/03/2022| [Caio Santos](https://github.com/caiobsantos) | [Alan Marques](https://github.com/alan-ms) |
-0.3| Adição da metodologia e conclusão|15/03/2022| [Caio Santos](https://github.com/caiobsantos) | [Alan Marques](https://github.com/alan-ms) |
-0.4| Adição de mais storyboards|15/03/2022| [Caio Santos](https://github.com/caiobsantos) | [Alan Marques](https://github.com/alan-ms) |
-0.5| Adição de linkagem entre documentos|16/03/2022| [Caio Santos](https://github.com/caiobsantos) | [Alan Marques](https://github.com/alan-ms) |
+1.0| Criação do documento de storyboards|14/03/2022| [Caio Santos](https://github.com/caiobsantos) | [Alan Marques](https://github.com/alan-ms) |
+1.1| Adição das storyboards|15/03/2022| [Caio Santos](https://github.com/caiobsantos) | [Alan Marques](https://github.com/alan-ms) |
+1.2| Adição da metodologia e conclusão|15/03/2022| [Caio Santos](https://github.com/caiobsantos) | [Alan Marques](https://github.com/alan-ms) |
+1.3| Adição de mais storyboards|15/03/2022| [Caio Santos](https://github.com/caiobsantos) | [Alan Marques](https://github.com/alan-ms) |
+1.4| Adição de linkagem entre documentos|16/03/2022| [Caio Santos](https://github.com/caiobsantos) | [Alan Marques](https://github.com/alan-ms) |

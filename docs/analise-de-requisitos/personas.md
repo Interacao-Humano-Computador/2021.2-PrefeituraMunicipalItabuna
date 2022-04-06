@@ -109,5 +109,5 @@ As personas foram desenvolvidas a partir da definição dos perfis de usuários,
 Versão |  O que foi inserido? | Data | Autor(es)| Revisor |
 ---- |----- | ---- | ---- | ---- |
 1.0| Criação do documento de personas |23/02/2022| [Caio Santos](https://github.com/caiobsantos) | [Arthur Alves de Matos](https://github.com/Arthur-Gaudium) |
-2.0| Adição das Pesonas e Antipersona |24/02/2022| [Caio Santos](https://github.com/caiobsantos) e [Vinicius Roriz](https://github.com/viniciusroriz) | [Arthur Alves de Matos](https://github.com/Arthur-Gaudium) |
-3.0| Correções sugeridas | 15/03/2022 | [Vinicius Roriz](https://github.com/viniciusroriz)
+1.1| Adição das Pesonas e Antipersona |24/02/2022| [Caio Santos](https://github.com/caiobsantos) e [Vinicius Roriz](https://github.com/viniciusroriz) | [Arthur Alves de Matos](https://github.com/Arthur-Gaudium) |
+1.2| Correções sugeridas | 15/03/2022 | [Vinicius Roriz](https://github.com/viniciusroriz)

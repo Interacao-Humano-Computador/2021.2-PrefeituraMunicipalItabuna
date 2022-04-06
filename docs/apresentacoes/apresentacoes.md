@@ -21,7 +21,7 @@ Análise de Requisitos: 12/03/2022
 ## Versionamento
 Versão |  O que foi inserido? | Data | Autor(es)| Revisor
 ---- |----- | ---- | ---- | ----
-0.1 | Criação do documento de apresentações |12/02/2022| [Ciro](https://github.com/ciro-c) | [Arthur Alves de Matos](https://github.com/Arthur-Gaudium)
-0.2 | Inserção da apresentação 1 |13/02/2022| [Alan Marques](https://github.com/alan-ms) | [Arthur Alves de Matos](https://github.com/Arthur-Gaudium)
-0.3 | Inserção da apresentação 2 |27/02/2022| [Alan Marques](https://github.com/alan-ms) | [Arthur Alves de Matos](https://github.com/Arthur-Gaudium)
-0.4 | Inserção da apresentação 3 |15/02/2022| [Alan Marques](https://github.com/alan-ms) | [Arthur Alves de Matos](https://github.com/Arthur-Gaudium)
+1.0 | Criação do documento de apresentações |12/02/2022| [Ciro](https://github.com/ciro-c) | [Arthur Alves de Matos](https://github.com/Arthur-Gaudium)
+1.1 | Inserção da apresentação 1 |13/02/2022| [Alan Marques](https://github.com/alan-ms) | [Arthur Alves de Matos](https://github.com/Arthur-Gaudium)
+1.2 | Inserção da apresentação 2 |27/02/2022| [Alan Marques](https://github.com/alan-ms) | [Arthur Alves de Matos](https://github.com/Arthur-Gaudium)
+1.3 | Inserção da apresentação 3 |15/02/2022| [Alan Marques](https://github.com/alan-ms) | [Arthur Alves de Matos](https://github.com/Arthur-Gaudium)

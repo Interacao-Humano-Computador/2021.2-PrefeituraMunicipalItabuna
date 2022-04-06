@@ -100,4 +100,4 @@ Para a avaliação da página da prefeitura de Itabuna foi escolhido o método d
 Versão |  O que foi inserido? | Data | Autor(es)| Revisor |
 ---- |----- | ---- | ---- | ---- |
 1.0| Criação do documento |10/02/2022| Todos |  |
-2.0| Correções de justificação de texto | 26/02/2022 | [Arthur Alves de Matos](https://github.com/Arthur-Gaudium)|[Alan Marques](https://github.com/alan-ms)|
+1.1| Correções de justificação de texto | 26/02/2022 | [Arthur Alves de Matos](https://github.com/Arthur-Gaudium)|[Alan Marques](https://github.com/alan-ms)|

@@ -22,5 +22,5 @@ Projeto Final. | 19 de abril de 2022 | [Ciro Costa de Araujo](https://github.com
 Versão |  O que foi inserido? | Data | Autor(es)| Revisor|
 ---- |----- | ---- | ---- | ---- |
 1.0| Criação do documento |10/02/2022| Todos | |
-2.0| Correções de justificação de texto | 26/02/2022 | [Arthur Alves de Matos](https://github.com/Arthur-Gaudium)|[Alan Marques](https://github.com/alan-ms)|
-3.0| Correções | 16/03/2022 | [Arthur Alves de Matos](https://github.com/Arthur-Gaudium)|[Alan Marques](https://github.com/alan-ms)|
+1.1| Correções de justificação de texto | 26/02/2022 | [Arthur Alves de Matos](https://github.com/Arthur-Gaudium)|[Alan Marques](https://github.com/alan-ms)|
+1.2| Correções | 16/03/2022 | [Arthur Alves de Matos](https://github.com/Arthur-Gaudium)|[Alan Marques](https://github.com/alan-ms)|

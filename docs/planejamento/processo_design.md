@@ -38,8 +38,8 @@ Na fase de <b>instalação</b> é coletada as opiniões dos usuários depois de 
 ## 3. Versionamento
 Versão |  O que foi inserido? | Data | Autor(es)| Revisor
 ---- |----- | ---- | ---- | ----
-0.1 | Criação do documento |12/02/2022| [Alan Marques](https://github.com/alan-ms) | [Arthur Alves de Matos](https://github.com/Arthur-Gaudium)
-0.2 | Inserção da referência a Guia de Estilo no análise de requisitos | 14/02/2022 | [Alan Marques](https://github.com/alan-ms) | [Arthur Alves de Matos](https://github.com/Arthur-Gaudium)
-0.3 | Criação da tabela de versionamento | 24/02/2022 | [Caio Santos](https://github.com/caiobsantos), [Vinícius Roriz](https://github.com/viniciusroriz) | [Vinícius Roriz](https://github.com/viniciusroriz)
-0.4 | Ajuste na tabela de versionamento | 26/02/2022 | [Alan Marques](https://github.com/alan-ms) | [Arthur Alves de Matos](https://github.com/Arthur-Gaudium)
-0.5| Correções de justificação de texto | 26/02/2022 | [Arthur Alves de Matos](https://github.com/Arthur-Gaudium)|[Alan Marques](https://github.com/alan-ms)|
+1.1 | Criação do documento |12/02/2022| [Alan Marques](https://github.com/alan-ms) | [Arthur Alves de Matos](https://github.com/Arthur-Gaudium)
+1.2 | Inserção da referência a Guia de Estilo no análise de requisitos | 14/02/2022 | [Alan Marques](https://github.com/alan-ms) | [Arthur Alves de Matos](https://github.com/Arthur-Gaudium)
+1.3 | Criação da tabela de versionamento | 24/02/2022 | [Caio Santos](https://github.com/caiobsantos), [Vinícius Roriz](https://github.com/viniciusroriz) | [Vinícius Roriz](https://github.com/viniciusroriz)
+1.4 | Ajuste na tabela de versionamento | 26/02/2022 | [Alan Marques](https://github.com/alan-ms) | [Arthur Alves de Matos](https://github.com/Arthur-Gaudium)
+1.5| Correções de justificação de texto | 26/02/2022 | [Arthur Alves de Matos](https://github.com/Arthur-Gaudium)|[Alan Marques](https://github.com/alan-ms)|

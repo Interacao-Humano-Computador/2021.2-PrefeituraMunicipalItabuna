@@ -68,4 +68,4 @@
 Versão |  O que foi inserido? | Data | Autor(es)| Revisor |
 ---- |----- | ---- | ---- | ---- |
 1.0| Criação do documento |26/02/2022| [Arthur Alves de Matos](https://github.com/Arthur-Gaudium) | [Alan Marques](https://github.com/alan-ms) |
-2.0| Inclusão de conclusão | 20/03/2022| [Arthur Alves de Matos](https://github.com/Arthur-Gaudium) | [Alan Marques](https://github.com/alan-ms) |
+1.1| Inclusão de conclusão | 20/03/2022| [Arthur Alves de Matos](https://github.com/Arthur-Gaudium) | [Alan Marques](https://github.com/alan-ms) |

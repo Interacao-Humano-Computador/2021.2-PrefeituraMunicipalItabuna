@@ -110,5 +110,5 @@ Tabela 8 - avaliação heurística
 ##  6. Tabela de Versionamento
 Versão |  O que foi inserido? | Data | Autor(es)| Revisor |
 ---- |----- | ---- | ---- | ---- |
-0.1| Criação do documento | 22/03/2022 | [Alan Marques](https://github.com/alan-ms) | [Ciro](https://github.com/ciro-c)  |
-0.2 |  Preenchimento dos dados  |29/03/2022| [Ciro](https://github.com/ciro-c) | [Caio Santos](https://github.com/caiobsantos)|
+1.0| Criação do documento | 22/03/2022 | [Alan Marques](https://github.com/alan-ms) | [Ciro](https://github.com/ciro-c)  |
+1.1 |  Preenchimento dos dados  |29/03/2022| [Ciro](https://github.com/ciro-c) | [Caio Santos](https://github.com/caiobsantos)|
