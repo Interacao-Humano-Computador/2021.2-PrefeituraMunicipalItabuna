@@ -2,7 +2,7 @@
 
 ## 1. Introdução
 
-Esse documento busca verificar os [Storyboards](./verificacao/verifica-storyboards.md) através do método de inspeção: Checklist. 
+Esse documento busca verificar os [Storyboards](./design-avaliacao-desenvolvimento/nivel-1/storyboard.md) através do método de inspeção: Checklist. 
 - Inspetor: [Vinícius Roriz](https://github.com/viniciusroriz).
 
 ## 2. Checklist

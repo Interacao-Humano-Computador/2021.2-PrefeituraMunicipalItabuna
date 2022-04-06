@@ -1,8 +1,8 @@
 # Verificação do guia de estilo
 
 ## 1. Introdução
-Esse documento busca verificar o guia de estilo através do método de inspeção. 
-- Inspetor: Ciro Costa.
+Esse documento busca verificar o [Guia de estilo](/analise-de-requisitos/guia-de-estilo.md) através do método de inspeção. 
+- Inspetor: [Ciro Costa](https://github.com/ciro-c).
 
 ## 2. Checklist
 

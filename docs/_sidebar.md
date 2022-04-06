@@ -38,4 +38,4 @@
 - [Análise de Tarefas](./verificacao/verifica-analise-tarefas.md)
 - [Storyboards](./verificacao/verifica-storyboards.md)
 - [Planejamento análise de Tarefas](./verificacao/verifica-planejamento-analise-de-tarefas.md)
-- [Storyboards](./verificacao/verifica-analise-tarefas.md)
+- [Guia de Estilo](./verificacao/verifica-guia-de-estilo.md)
