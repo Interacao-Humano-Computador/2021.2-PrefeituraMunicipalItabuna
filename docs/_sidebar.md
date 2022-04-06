@@ -39,3 +39,4 @@
 - [Storyboards](./verificacao/verifica-storyboards.md)
 - [Planejamento análise de Tarefas](./verificacao/verifica-planejamento-analise-de-tarefas.md)
 - [Guia de Estilo](./verificacao/verifica-guia-de-estilo.md)
+- [Metas de usabilidade](./verificacao/verifica-metas-de-usabilidade.md)

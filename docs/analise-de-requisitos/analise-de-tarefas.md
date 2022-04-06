@@ -81,7 +81,7 @@ Figura 2 - Diagrama HTA.
 ## 5. Versionamento 
 Versão |  O que foi inserido? | Data | Autor(es)| Revisor
 ---- |----- | ---- | ---- | ----
-0.1 | Criação do documento, introdução e análise hierárquica |26/02/2022| [Alan Marques](https://github.com/alan-ms) | [Ciro](https://github.com/ciro-c)
-0.2 | Adição de tabelas e diagramas de análise | 27/02/2022| [Vinícius Lima](https://github.com/vinelime) | [Ciro](https://github.com/ciro-c)
-0.3 | Inserção das referências bibliográficas |26/02/2022| [Alan Marques](https://github.com/alan-ms) | [Ciro](https://github.com/ciro-c)|
-0.4| Correções sugeridas | 15/03/2022 | [Vinicius Roriz](https://github.com/viniciusroriz)|
+1.0 | Criação do documento, introdução e análise hierárquica |26/02/2022| [Alan Marques](https://github.com/alan-ms) | [Ciro](https://github.com/ciro-c)
+1.1 | Adição de tabelas e diagramas de análise | 27/02/2022| [Vinícius Lima](https://github.com/vinelime) | [Ciro](https://github.com/ciro-c)
+1.2 | Inserção das referências bibliográficas |26/02/2022| [Alan Marques](https://github.com/alan-ms) | [Ciro](https://github.com/ciro-c)|
+1.3| Correções sugeridas | 15/03/2022 | [Vinicius Roriz](https://github.com/viniciusroriz)|

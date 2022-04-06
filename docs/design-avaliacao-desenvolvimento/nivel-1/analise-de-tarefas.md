@@ -47,5 +47,5 @@ recomendações de correção.
 
 Versão |  O que foi inserido? | Data | Autor(es)| Revisor
 ---- |----- | ---- | ---- | ----
-0.1 | Criação do documento e preenchimento dos dados  |12/03/2022| [Ciro](https://github.com/ciro-c) | [Vinicius Lima](https://github.com/vinelime)
-0.2 | Adição do titulo do documento |06/04/2022| [Ciro](https://github.com/ciro-c) | []()
+1.0 | Criação do documento e preenchimento dos dados  |12/03/2022| [Ciro](https://github.com/ciro-c) | [Vinicius Lima](https://github.com/vinelime)
+1.1 | Adição do titulo do documento |06/04/2022| [Ciro](https://github.com/ciro-c) | []()

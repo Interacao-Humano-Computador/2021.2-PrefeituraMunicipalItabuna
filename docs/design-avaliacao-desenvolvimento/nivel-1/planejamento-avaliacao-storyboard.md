@@ -54,7 +54,7 @@ O documento relatando de resultados da avaliação deve conter o seguinte:
 ## 8. Versionamento
 Versão |  O que foi inserido? | Data | Autor(es)| Revisor |
 ---- |----- | ---- | ---- | ---- |
-0.1| Elaboração do documento | 16/03/2022 | [Alan Marques](https://github.com/alan-ms) | [Vinicius Lima](https://github.com/vinelime) |
-0.2| Correção de formatação e inserção da conclusão | 28/03/2022 | [Alan Marques](https://github.com/alan-ms) | [Ciro](https://github.com/ciro-c) |
-0.3| Altera o método para inspeção | 28/03/2022| [Vinicius Roriz](https://github.com/viniciusroriz)|[Caio Santos](https://github.com/caiobsantos)|
+1.0| Elaboração do documento | 16/03/2022 | [Alan Marques](https://github.com/alan-ms) | [Vinicius Lima](https://github.com/vinelime) |
+1.1| Correção de formatação e inserção da conclusão | 28/03/2022 | [Alan Marques](https://github.com/alan-ms) | [Ciro](https://github.com/ciro-c) |
+1.2| Altera o método para inspeção | 28/03/2022| [Vinicius Roriz](https://github.com/viniciusroriz)|[Caio Santos](https://github.com/caiobsantos)|
 

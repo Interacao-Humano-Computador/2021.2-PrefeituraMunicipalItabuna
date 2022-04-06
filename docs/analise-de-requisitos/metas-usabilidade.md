@@ -3,7 +3,7 @@
 ## 1. Introdução
 
 <p align="justify">
-Entende-se a usabilidade como uma specto que visa assegurar que produtos interativos sejam, no entendimento do usuário, agradáveis, eficazes e de fácil uso. Tal aspecto, implica em otimizar as interações entre o produto e os que utilizam-no, de uma maneira que permita-se a realização das atividades cotidianas.
+Entende-se a usabilidade como um aspecto que visa assegurar que produtos interativos sejam, no entendimento do usuário, agradáveis, eficazes e de fácil uso. Tal aspecto, implica em otimizar as interações entre o produto e os que utilizam-no, de uma maneira que permita-se a realização das atividades cotidianas.
 </p>
 
 ## 2. Descrição das metas
@@ -49,3 +49,4 @@ Como destacado nas seção de Análise de Perfis, os usuários do site da Prefei
 Versão |  O que foi inserido? | Data | Autor(es)| Revisor |
 ---- |----- | ---- | ---- | ---- |
 1.0| Criação do documento |11/03/2022| [Arthur Alves de Matos](https://github.com/Arthur-Gaudium) | [Caio Santos](https://github.com/caiobsantos)|
+1.1 | Correção gramatical | 06/04/2022 | [Ciro](https://github.com/ciro-c) | []()
