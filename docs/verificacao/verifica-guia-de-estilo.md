@@ -11,8 +11,9 @@ Número | Pergunta | Resposta
 1| O documento possui versionamento?| Sim
 2| O documento está gramaticalmente correto?| Não
 3| Existe uma introdução ao conceito abordado?| Sim
-4| Os tópicos correspondem com os conteúdos apresentados?| Sim
-5| O documento segue o padrão estabelecido pelo grupo?| Sim
+4| O guia de estilo apresenta características do site da prefeitura?| Sim
+5| Os tópicos correspondem com os conteúdos apresentados?| Sim
+6| O documento segue o padrão estabelecido pelo grupo?| Sim
 
 ## 3. Conclusão
 
