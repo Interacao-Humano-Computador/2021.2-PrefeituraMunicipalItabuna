@@ -14,6 +14,7 @@ Número | Pergunta | Resposta
 3| Os dados utilizados possuem fontes| Sim
 4| Os tópicos correspondem com os conteúdos apresentados? | Sim
 5| Existe uma conclusão para os dados coletados?| Sim
+6| Os pricípios estão descritos de maneira inteligível?| Sim
 
 ## 3. Conclusão
 
