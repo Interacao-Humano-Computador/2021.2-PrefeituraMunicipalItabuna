@@ -33,10 +33,13 @@
 
 - Verificação de Artefatos
 
+- [Introdução](./verificacao/introducao.md)
 - [Perfil de usuários](./verificacao/verifica-perfil-usuarios.md)
+- [Personas](./verificacao/verificacao-personas.md)
 - [Princípios Gerais do Projetos](./verificacao/verifica-principios-gerais.md)
 - [Análise de Tarefas](./verificacao/verifica-analise-tarefas.md)
 - [Storyboards](./verificacao/verifica-storyboards.md)
+- [Resultados StoryBoard](./verificacao/verificacao-resultadosstoryboard.md)
 - [Planejamento análise de Tarefas](./verificacao/verifica-planejamento-analise-de-tarefas.md)
 - [Guia de Estilo](./verificacao/verifica-guia-de-estilo.md)
 - [Metas de usabilidade](./verificacao/verifica-metas-de-usabilidade.md)

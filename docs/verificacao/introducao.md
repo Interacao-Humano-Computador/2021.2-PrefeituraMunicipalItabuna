@@ -23,16 +23,16 @@ A importância da etapa de verificação é fazer com que os artefatos sejam imp
 
 | Artefato             | Membro(s)          |
 | :------------------: | :-----------------: |
-|[Análise de Tarefas]()  |[]()  |
-|[Guia de Estilo]()  |[]()  |
-|[Metas de Usabilidade]()  |[]()  |
-|[Perfil do Usuário]()  |[]()  |
-|[Personas]()  |[Caio Santos](https://github.com/caiobsantos)  |
-|[Princípios Gerais do Projeto]()  |[]()  |
-|[Protótipo de Baixa Fidelidade]()  |[]()  |
-|[Relato dos Resultados da Análise de tarefas]()  |[]()  |
-|[Relato dos Resultados do Storyboard]()  |[Caio Santos](https://github.com/caiobsantos)  |
-|[Storyboard]()  |[]()  |
+|[Análise de Tarefas](/analise-de-requisitos/analise-de-tarefas.md)  |[Vinícius Roriz](https://github.com/viniciusroriz)  |
+|[Guia de estilo](/analise-de-requisitos/guia-de-estilo.md)  |[Ciro Costa](https://github.com/ciro-c) |
+|[Metas de Usabilidade](../analise-de-requisitos/metas-usabilidade.md)  |[Ciro Costa](https://github.com/ciro-c)  |
+|[Perfil do Usuário](/analise-de-requisitos/perfil.md)  |[Arthur Matos](https://github.com/Arthur-Gaudium)  |
+|[Personas](/analise-de-requisitos/personas.md)  |[Caio Santos](https://github.com/caiobsantos)  |
+|[Princípios Gerais do Projeto](/analise-de-requisitos/principios-gerais.md)  |[Arthur Matos](https://github.com/Arthur-Gaudium)  |
+|[Planejamento da Analise de tarefas](../design-avaliacao-desenvolvimento/nivel-1/analise-de-tarefas.md)| [Ciro Costa](https://github.com/ciro-c) |
+|[Protótipo de Baixa Fidelidade](/design-avaliacao-desenvolvimento/nivel-2/prototipo-baixa-fidelidade.md)  |[Alan Marques Sousa](https://github.com/alan-ms)  |
+|[Relato dos Resultados do Storyboard](/design-avaliacao-desenvolvimento/nivel-1/analise-avaliacao-storyboard.md)  |[Caio Santos](https://github.com/caiobsantos)  |
+|[Storyboard](/design-avaliacao-desenvolvimento/nivel-1/storyboard.md)  | [Vinícius Roriz](https://github.com/viniciusroriz)  |
 
 
 ## 3. Referência Bibliográfica
