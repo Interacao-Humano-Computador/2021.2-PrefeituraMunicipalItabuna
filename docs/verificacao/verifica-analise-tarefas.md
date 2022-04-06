@@ -28,4 +28,4 @@ Não foram encontrados problemas no documento de análise de tarefas, portanto c
 ## 5. Tabela de Versionamento
 Versão |  O que foi inserido? | Data | Autor(es)| Revisor |
 ---- |----- | ---- | ---- | ---- |
-0.1| Criação do documento | 06/04/2022| [Vinícius Roriz](https://github.com/viniciusroriz) | []() |
+0.1| Criação do documento | 06/04/2022| [Vinícius Roriz](https://github.com/viniciusroriz) | [Arthur Matos](https://github.com/Arthur-Gaudium) |
