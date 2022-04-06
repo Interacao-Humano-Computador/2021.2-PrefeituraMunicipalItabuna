@@ -17,6 +17,7 @@
 
 - Nivel 1
  * [Planejamento da análise de tarefas](./design-avaliacao-desenvolvimento/nivel-1/analise-de-tarefas.md)
+ * [Resultado da análise de tarefas](./design-avaliacao-desenvolvimento/nivel-1/resultado-analise-de-tarefas.md)
  * [Storyboard](./design-avaliacao-desenvolvimento/nivel-1/storyboard.md)
  * [Storyboard - Planejamento da Avaliação](./design-avaliacao-desenvolvimento/nivel-1/planejamento-avaliacao-storyboard.md)
  * [Storyboard - Relato da Avaliação](./design-avaliacao-desenvolvimento/nivel-1/analise-avaliacao-storyboard.md)
