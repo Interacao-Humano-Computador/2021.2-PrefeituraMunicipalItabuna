@@ -27,11 +27,11 @@ A importância da etapa de verificação é fazer com que os artefatos sejam imp
 |[Guia de Estilo]()  |[]()  |
 |[Metas de Usabilidade]()  |[]()  |
 |[Perfil do Usuário]()  |[]()  |
-|[Personas]()  |[]()  |
+|[Personas]()  |[Caio Santos](https://github.com/caiobsantos)  |
 |[Princípios Gerais do Projeto]()  |[]()  |
 |[Protótipo de Baixa Fidelidade]()  |[]()  |
 |[Relato dos Resultados da Análise de tarefas]()  |[]()  |
-|[Relato dos Resultados do Storyboard]()  |[]()  |
+|[Relato dos Resultados do Storyboard]()  |[Caio Santos](https://github.com/caiobsantos)  |
 |[Storyboard]()  |[]()  |
 
 
