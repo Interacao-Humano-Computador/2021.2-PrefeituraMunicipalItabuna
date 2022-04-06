@@ -29,4 +29,4 @@ A verificação mostrou que falta algumas modificações no artefato pois o cont
 ## 5. Tabela de Versionamento
 Versão |  O que foi inserido? | Data | Autor(es)| Revisor |
 ---- |----- | ---- | ---- | ---- |
-0.1| Criação do documento | 05/04/2022| [Alan Marques Sousa](https://github.com/alan-ms) | |
+0.1| Criação do documento | 05/04/2022| [Alan Marques Sousa](https://github.com/alan-ms) | [Arthur Alves de Matos](https://github.com/Arthur-Gaudium) |
