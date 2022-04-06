@@ -2,7 +2,7 @@
 
 ## 1. Introdução
 
-Esse documento busca verificar a documentação dos [Princípios Gerais do Projetos](../design-avaliacao-desenvolvimento/nivel-2/prototipo-baixa-fidelidade.md) através do método de inspeção: Checklist. 
+Esse documento busca verificar a documentação dos [Protótipo de Baixa Fidelidade](../design-avaliacao-desenvolvimento/nivel-2/prototipo-baixa-fidelidade.md) através do método de inspeção: Checklist. 
 - Inspetor: [Alan Marques Sousa](https://github.com/alan-ms)
 
 ## 2. Checklist
