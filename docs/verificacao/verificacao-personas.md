@@ -56,7 +56,9 @@ Através de alguns critérios definidos por meio da técnica de inspeção, as P
 
 ## 4. Conclusão
 
+<p align='justify'>
 O documento de personas está bem definido e especificado de acordo com o esperado.
+</p>
 
 
 ## 5. Referência Bibliográfica
