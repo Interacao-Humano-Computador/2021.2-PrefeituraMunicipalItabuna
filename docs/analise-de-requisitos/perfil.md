@@ -53,12 +53,19 @@
     Observa-se que os "Responsáveis por domicílios" se concentram em maior parte em até 2 salários minimos, demonstrando que, em maioria, concentram-se pessoas com poucos recursos financeiros e possivelmente com acesso restrito a fontes de informação(Internet por exemplo).
 </p>
 
-## 4. Referências
+## 4. Conclusão
+
+<p align="justify">
+    Com os conjunto de dados pesquisados e analisados, tem-se que, os usuários da plataforma da Prefeitura de Itabuna, são em sua maioria adultos, presentes na faixa de até 2 salários minimos e com escolaridade baixa. Isso implica que estes se incluem como uma população humilde, com baixa instrução e acesso não constante a tecnlogia. Sendo assim, o design da plataforma deve prezar por interações simples, claras e memoráveis para o usuário.
+<p>
+
+## 5. Referências
     Anuario_Estatistico_Base_de_Dados_2019. PREFEITURA MUNICIPAL DE ITABUNA, 2019.
     Disponível em: http://www.itabuna.ba.gov.br/download/Anuario_Estatistico_Base_de_Dados_2019.pdf.
     Acesso em: 22 de fevereiro, 2022.
 
-## 5. Versionamento
+## 6. Versionamento
 Versão |  O que foi inserido? | Data | Autor(es)| Revisor |
 ---- |----- | ---- | ---- | ---- |
 1.0| Criação do documento |26/02/2022| [Arthur Alves de Matos](https://github.com/Arthur-Gaudium) | [Alan Marques](https://github.com/alan-ms) |
+2.0| Inclusão de conclusão | 20/03/2022| [Arthur Alves de Matos](https://github.com/Arthur-Gaudium) | [Alan Marques](https://github.com/alan-ms) |
