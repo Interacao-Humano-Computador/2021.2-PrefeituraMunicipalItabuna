@@ -18,6 +18,24 @@ Análise de Requisitos: 12/03/2022
     <iframe width="560" height="315" src="https://www.youtube.com/embed/01-4YTVOo0g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
+## Apresentação 4
+Planejamento da Avaliação do Storyboard e Análise de tarefas.e o planejamento do relato dos resultados da avaliação do Storyboard e Análise de tarefas: 16/03/2022
+<p>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/wBj-5yFtvNw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
+
+## Apresentação 5
+Relato dos resultados do Story Board, Análise de tarefas e o Planejamento da Avaliação do Protótipo de Papel e o Planejamento do relato dos resultados da avaliação do Protótipo de Papel: 30/03/2022
+<p align='center'>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/ON8aOOhRV7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
+
+## Apresentação 6
+Verificação dos Artefatos: 06/04/2022
+<p align='center'>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/7DFH-CjqHoY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
+
 ## Versionamento
 Versão |  O que foi inserido? | Data | Autor(es)| Revisor
 ---- |----- | ---- | ---- | ----
@@ -25,3 +43,4 @@ Versão |  O que foi inserido? | Data | Autor(es)| Revisor
 1.1 | Inserção da apresentação 1 |13/02/2022| [Alan Marques](https://github.com/alan-ms) | [Arthur Alves de Matos](https://github.com/Arthur-Gaudium)
 1.2 | Inserção da apresentação 2 |27/02/2022| [Alan Marques](https://github.com/alan-ms) | [Arthur Alves de Matos](https://github.com/Arthur-Gaudium)
 1.3 | Inserção da apresentação 3 |15/02/2022| [Alan Marques](https://github.com/alan-ms) | [Arthur Alves de Matos](https://github.com/Arthur-Gaudium)
+1.4 | Inserção da apresentação 4, 5 e 6 |06/04/2022| [Alan Marques](https://github.com/alan-ms) | [Arthur Alves de Matos](https://github.com/Arthur-Gaudium)
