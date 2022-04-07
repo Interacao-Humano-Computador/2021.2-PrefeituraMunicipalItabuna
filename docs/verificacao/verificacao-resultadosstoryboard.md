@@ -1,4 +1,4 @@
-# Personas
+# Verificação do Resultado do Storyboard
 
 ## 1. Introdução
 
