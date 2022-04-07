@@ -2,7 +2,7 @@
 
 ## 1. Introdução
 
-Esse documento busca verificar a documentação dos [Princípios Gerais do Projetos](../design-avaliacao-desenvolvimento/nivel-2/planejamento-avaliacao-prototipo-papel.md) através do método de inspeção: Checklist. 
+Esse documento busca verificar a documentação dos [Planejamento do Protótipo de Baixa Fidelidade](../design-avaliacao-desenvolvimento/nivel-2/planejamento-avaliacao-prototipo-papel.md) através do método de inspeção: Checklist. 
 - Inspetor: [Alan Marques Sousa](https://github.com/alan-ms)
 
 ## 2. Checklist
@@ -18,7 +18,7 @@ Número | Pergunta | Resposta
 
 ## 3. Conclusão
 
-A verificação mostrou que falta algumas modificações no artefato pois o conteúdo apresentado pelo mesmo está com uma informação divergente com o que foi realmente apresentado.
+A verificação mostrou que faltam algumas modificações no artefato pois o conteúdo apresentado pelo mesmo está com uma informação divergente com o que foi realmente apresentado.
 
 ## 4. Referência Bibliográfica
     Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação
