@@ -16,7 +16,7 @@ O objetivo desse documento é especificar como será o planejamento da avaliaç�
 ## 3. Metodologia
 
 <p align='justify'>
-Para a criação do protótipo, foi utilizada a ferramente Figma, um editor gráfico utilizado para a prototipagem de projetos.
+Para a criação do protótipo, foi utilizada a ferramenta Figma, um editor gráfico utilizado para a prototipagem de projetos.
 </p>
 
 <p align='justify'>O método escolhido para a realização da futura avaliação do protótipo de alta fidelidade é o mesmo proposto no livro Interação Humano-Computador, de Simone Barbosa e Bruno Silva. Dessa forma, serão realizadas as seguintes atividades:
@@ -59,7 +59,7 @@ Durante essa fase, serão realizadas entrevistas com participantes. O objetivo �
 </p>
 
 <p align='justify'>
-Para coletar os dados do experimento, pelo menos dois avaliadores realizarão as entrevistas, um será responsável por apresentar o protótipo ao partcipante e guiá-lo durante a simulação, e o outro será responsável por observar a atuação do usuário e realizar anotações que serão utilziadas posteriormente para aprimorar o protótipo.
+Para coletar os dados do experimento, pelo menos dois avaliadores realizarão as entrevistas, um será responsável por apresentar o protótipo ao participante e guiá-lo durante a simulação, e o outro será responsável por observar a atuação do usuário e realizar anotações que serão utilizadas posteriormente para aprimorar o protótipo.
 </p>
 
 ## 6. Consolidação dos resultados
@@ -85,4 +85,4 @@ Por fim, será criado um documento comunicando aos interessados como foi realiza
 
 Versão |  O que foi inserido? | Data | Autor(es)| Revisor |
 ---- |----- | ---- | ---- | ---- |
-1.0| Criação do documento |11/04/2022| [Caio Santos](https://github.com/caiobsantos) |  |
+1.0| Criação do documento |11/04/2022| [Caio Santos](https://github.com/caiobsantos) | [Ciro](https://github.com/ciro-c) |
