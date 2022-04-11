@@ -2,17 +2,17 @@
 
 ## 1. Introdução
 <p align='justify'>
-    A prototipagem de alta fidelidade trás em seu conceito a utilização de matériais e decisões de design muito mais próximas às de um produto final. Sua utilização implica a venda de ideias aos stakeholders, além de testar questões técnicas e decisões de design.
+    A prototipagem de alta fidelidade trás em seu conceito a utilização de materiais e decisões de design muito mais próximas às de um produto final. Sua utilização implica a venda de ideias aos stakeholders, além de testar questões técnicas e decisões de design.
 </p>
 
 ## 2. Objetivo
 <p align='justify'>
-    Dentre os objetivos estabelecidos, o protótipo de alta fidelidade buscará identificar problemas na interação dos usuários e verificar se as mundanças propostas trouxeram benefícios a utilização da plataforma pelo usuário. Além disso, buscará verificar se o design proposto cumpre as metas de usabilidade apresentadas como prioridades ao projeto: Segurança, Learnability e Memorability.
+    Dentre os objetivos estabelecidos, o protótipo de alta fidelidade buscará identificar problemas na interação dos usuários e verificar se as mudanças propostas trouxeram benefícios à utilização da plataforma pelo usuário. Além disso, buscará verificar se o design proposto cumpre as metas de usabilidade apresentadas como prioridades ao projeto: Segurança, Learnability e Memorability.
 </p>
 
 ## 3. Protótipo
 <p align='justify'>
-    Através das definições estabelecidas no guia de estilos, construiu-se o protótipo baseando-se no conceito de prototipação vertical. Foram apresentados um conjunto de funcionalidades e telas menor, porém com detalhes mais fidedignos às interações e ao design do produto final. Com este definido, será realizada a válidação com o usuário/persona e as posteriores adaptações.
+    Através das definições estabelecidas no guia de estilos, construiu-se o protótipo baseando-se no conceito de prototipação vertical. Foram apresentados um conjunto de funcionalidades e telas menores, porém com detalhes mais fidedignos às interações e ao design do produto final. Com este definido, será realizada a validação com o usuário/persona e as posteriores adaptações.
 </p>
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FYcnaM7p7fPau9cOtdlQy3J%2FUntitled%3Fnode-id%3D2%253A2%26scaling%3Dmin-zoom%26page-id%3D0%253A1%26starting-point-node-id%3D2%253A2" allowfullscreen></iframe>
 
@@ -28,4 +28,4 @@
 
 Versão |  O que foi inserido? | Data | Autor(es)| Revisor
 ---- |----- | ---- | ---- | ----
-1.0 | Criação do documento |11/04/2022| [Arthur Matos](https://github.com/Arthur-Gaudium) |  |
+1.0 | Criação do documento |11/04/2022| [Arthur Matos](https://github.com/Arthur-Gaudium) | [Ciro](https://github.com/ciro-c) |
