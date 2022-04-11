@@ -25,10 +25,12 @@
 - Nivel 2
 - [Protótipo de Baixa Fidelidade](./design-avaliacao-desenvolvimento/nivel-2/prototipo-baixa-fidelidade.md)
 - [Planejamento da Avaliação do Protótipo de Baixa Fidelidade](./design-avaliacao-desenvolvimento/nivel-2/planejamento-avaliacao-prototipo-papel.md)
-- [Termo de Consentimento](./design-avaliacao-desenvolvimento/nivel-2/termo-de-consentimento.md)
+- [Termo de Consentimento - Protótipo Baixa Fidelidade](./design-avaliacao-desenvolvimento/nivel-2/termo-de-consentimento.md)
 
 - Nível 3
 - [Protótipo de Alta Fidelidade](./design-avaliacao-desenvolvimento/nivel-3/prototipo-alta.md)
+- [Planejamento da Avaliação do Protótipo de Alta Fidelidade](./design-avaliacao-desenvolvimento/nivel-3/planejamento-avaliacao-prototipo-alta-fidelidade.md)
+- [Termo de Consetimento - Protótipo Alta Fidelidade](./design-avaliacao-desenvolvimento/nivel-3/termo-de-consentimento-prototipo-alta-fidelidade.md)
 
 - Apresentações
 
