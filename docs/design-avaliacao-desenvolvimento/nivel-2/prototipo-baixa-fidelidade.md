@@ -1,3 +1,5 @@
+# Protótipo de Baixa Fídelidade
+
 ## 1. Introdução
 <p align='justify'>
   Prótipo de baixa fidelidade é uma simulação de usabilidade de baixa nível das tarefa de um sistema e pode identificar problemas de usabilidade antes mesmo de construir uma solução de IHC. Nesse tipo de protótipo não se observa o design gráfico do sistema e sim as funcionalidades do mesmo.
