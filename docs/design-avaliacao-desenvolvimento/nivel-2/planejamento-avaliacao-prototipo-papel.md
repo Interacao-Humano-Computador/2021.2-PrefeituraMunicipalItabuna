@@ -3,7 +3,7 @@
 ## 1. Introdução
 
 <p align='justify'>
-O método de prototipação de baixa fidelidade tem a intenção de simular a interação de usuários reais com o sistema, a partir de um design feito em alguma ferramenta que possíbilita a apresentação do protótipo proposto. O protótipo permite a consolidação de ideias e a identificação de problemas de usabilidade numa etapa inicial do projeto.
+O método de prototipação de baixa fidelidade tem a intenção de simular a interação de usuários reais com o sistema, a partir de um design feito em alguma ferramenta que possibilita a apresentação do protótipo proposto. O protótipo permite a consolidação de ideias e a identificação de problemas de usabilidade numa etapa inicial do projeto.
 </p>
 
 
@@ -16,7 +16,7 @@ O objetivo desse documento é especificar como será o planejamento da avaliaç�
 
 ## 3. Metodologia
 
-<p align='justify'>O método escolhido para a realização da futura avaliação do protótipo de baixa filidade é o mesmo proposto no livro Interação Humano-Computador, de Simone Barbosa e Bruno Silva. Dessa forma, serão realizadas as seguintes atividades:
+<p align='justify'>O método escolhido para a realização da futura avaliação do protótipo de baixa fidelidade é o mesmo proposto no livro Interação Humano-Computador, de Simone Barbosa e Bruno Silva. Dessa forma, serão realizadas as seguintes atividades:
 <ul>
     <li>Preparação</li>
     <li>Coleta de dados</li>
@@ -153,4 +153,4 @@ Versão |  O que foi inserido? | Data | Autor(es)| Revisor |
 1.0| Criação do documento |30/03/2022| [Caio Santos](https://github.com/caiobsantos) | [Arthur Alves de Matos](https://github.com/Arthur-Gaudium) |
 1.1| Descrição das tarefas |30/03/2022| [Arthur Alves de Matos](https://github.com/Arthur-Gaudium) | [Alan Marques](https://github.com/alan-ms) |
 1.2| Finalização das descrição das tarefas |30/03/2022| [Alan Marques](https://github.com/alan-ms) | [Arthur Alves de Matos](https://github.com/Arthur-Gaudium) |
-1.3| Retirada das referências a protótipo de papel para protótipo de baixa filidade |30/03/2022| [Alan Marques](https://github.com/alan-ms) | [Arthur Alves de Matos](https://github.com/Arthur-Gaudium) |
+1.3| Retirada das referências a protótipo de papel para protótipo de baixa fidelidade |30/03/2022| [Alan Marques](https://github.com/alan-ms) | [Arthur Alves de Matos](https://github.com/Arthur-Gaudium) |
