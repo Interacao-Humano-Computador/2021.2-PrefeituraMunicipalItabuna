@@ -148,11 +148,7 @@ Durante essa fase, serão realizadas entrevistas com participantes. O objetivo �
 </p>
 
 <p align='justify'>
-<<<<<<< HEAD
     Para coletar os dados do experimento, pelo menos dois avaliadores realizarão as entrevistas, um será responsável por apresentar o protótipo ao partcipante e guiá-lo durante a simulação, e o outro será responsável por observar a atuação do usuário e realizar anotações que serão utilziadas posteriormente para aprimorar o protótipo.
-=======
-Para coletar os dados do experimento, pelo menos dois avaliadores realizarão as entrevistas, um será responsável por apresentar o protótipo ao participante e guiá-lo durante a simulação, e o outro será responsável por observar a atuação do usuário e realizar anotações que serão utilizadas posteriormente para aprimorar o protótipo.
->>>>>>> f6fa777f2cc0e3bcc7b4cf62176a7726faf8c84d
 </p>
 
 ## 6. Consolidação dos resultados
