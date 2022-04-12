@@ -32,7 +32,7 @@ Para a criação do protótipo, foi utilizada a ferramenta Figma, um editor grá
 ## 4. Preparação
 
 <p align='justify'>
-Durante a fase de preparação foram definidas as tarefas que os participantes irão executar e o protótipo de baixa fidelidade foi criado.
+Durante a fase de preparação foram definidas as tarefas que os participantes irão executar e o protótipo de alta fidelidade foi criado.
 </p>
 
 
@@ -44,10 +44,11 @@ Durante a fase de preparação foram definidas as tarefas que os participantes i
         <li>Buscar a pagina de notícias</li>
         <li>Acesso a um serviço externo a prefeitura</li>
         <li>Acessar a página da secretária de educação</li>
+        <li>Acessar a página criação e consulta de requerimentos</li>
     </ul>
 </p>
 <p align='justify'>
-    Antes da apresentação do protótipo de baixa fidelidade, deverá ser apresentado o site atual da prefeitura de itabuna para contextualizar o usuário sobre como o site é atualmente, buscando coletar suas sensações sobre o site e sua organização de elementos.
+    Antes da apresentação do protótipo de alta fidelidade, deverá ser apresentado o site atual da prefeitura de itabuna para contextualizar o usuário sobre como o site é atualmente, buscando coletar suas sensações sobre o site e sua organização de elementos.
 </p>
 
 
