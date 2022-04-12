@@ -176,4 +176,4 @@ Por fim, será criado um documento comunicando aos interessados como foi realiza
 Versão |  O que foi inserido? | Data | Autor(es)| Revisor |
 ---- |----- | ---- | ---- | ---- |
 1.0| Criação do documento |11/04/2022| [Caio Santos](https://github.com/caiobsantos) | [Ciro](https://github.com/ciro-c) |
-1.1| Descrição das tarefas |11/04/2022| [Alan Marques](https://github.com/alan-ms) |  |
+1.1| Descrição das tarefas |11/04/2022| [Alan Marques](https://github.com/alan-ms) | [Ciro](https://github.com/ciro-c) |
