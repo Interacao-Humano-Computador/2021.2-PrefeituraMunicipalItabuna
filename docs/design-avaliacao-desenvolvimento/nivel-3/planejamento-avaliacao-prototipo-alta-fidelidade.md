@@ -98,7 +98,7 @@ Ao fim da tarefa, deve-se questionar ao usuário em que pontos ele sentiu dificu
 
 #### 4.1.3 Acessar a página da secretária de educação
 <p align='justify'>
-    A página da Prefeitura de Itabuna dispõem o acesso a várias informações, sobre orgãos publicos da cidade. O design da descrição desses orgãos segue o mesmo padrão. Pensando nisso, com essa tarefa busca-se validar a organização dos elementos nas páginas que descrevem esses orgãos.
+    A página da Prefeitura de Itabuna dispõem o acesso a várias informações, sobre as secretárias da cidade. O design da descrição dessas secretárias segue o mesmo padrão. Pensando nisso, com essa tarefa busca-se validar a organização dos elementos nas páginas que descrevem essas secretárias.
 
 Para isso, será indicado ao usuário seguir os seguintes passos:
     <ol>
@@ -106,18 +106,18 @@ Para isso, será indicado ao usuário seguir os seguintes passos:
         <p align='justify'>
             Aprensentar ao usuário o que seria um menu de navegação e propor ao mesmo que indique na tela que elemento o representaria. Apresentar a ele o que o sistema pode prover para facilitar a identificação dos elementos e indicar a interação com o modal de ajuda. Durante a execução deve-se capturar a sensação do usuário enquanto busca pelo menu, deve-se questionar se a interação é clara e ainda questionar sobre a utilização do elemento de ajuda, se o mesmo foi relevante.
         </p>
-        <li>Página de informações do orgão</li>
+        <li>Página de informações do secretária</li>
         <p align='justify'>
-           Deve-se coletar do usuário se as informações sobre o orgão estão completas ou se está faltando alguma informação que julga necessário sobre não está sendo apresentada.
+           Deve-se coletar do usuário se as informações sobre a secretárias estão completas ou se está faltando alguma informação que julga necessário sobre não está sendo apresentada.
         </p>
-        <li>Página de notícias sobre o orgão</li>
+        <li>Página de notícias sobre a secretárias</li>
         <p align='justify'>
             Deve-se coletar do usuário se a ação de ir para as notícias do orgão está clara e também a respeito da organização das interação das notícias na tela e se falta algum elemento que ajudaria a uma melhor navegação nessas notícias.
         </p>
     </ol>
 </p>
 
-### 4.1.4 Acesso ao formulário de requerimento
+### 4.1.4 Acesso a conulta e criação de requerimento
 <p align='justify'>
 A página da Prefeitura de Itabuna conta com acesso página de criação e consulta de requerimentos em sua interação. Para essa avaliação busca-se entender a navegabilidade proposta, até o ponto de acesso ao formulário de criação e a consulta, de forma a verificar se o usuário consegue compreender os elementos de ajuda dispostos, a forma de uso do formulário de consulta e a seguração nas suas ações. 
    
@@ -129,7 +129,7 @@ Para isso, será indicado ao usuário seguir os seguintes passos:
         </p>
         <li>Visualizar o formulário e consulta de requerimentos</li>
         <p align='justify'>
-            Perguntar ao usuário se na tela de requerimento onde está a localização da consulta e o formulário de requerimento assim com o botão de ajuda, verificando a memorização do usuário e opinião do usuário sobre o design proposto e solução quanto a segurança para o acesso a sites externos e o botão de ajuda.
+            Perguntar ao usuário se na tela de requerimento onde está a localização da consulta e do formulário de requerimento assim com o botão de ajuda, verificando a memorização do usuário e opinião do usuário sobre o design proposto e solução quanto a segurança para o acesso a sites externos e o botão de ajuda.
         </p>
         <li>Visualizar proxima tela upload de documentos para criação de requerimentos</li>
         <p align='justify'>
@@ -149,7 +149,7 @@ Durante essa fase, serão realizadas entrevistas com participantes. O objetivo �
 </p>
 
 <p align='justify'>
-    Para coletar os dados do experimento, pelo menos dois avaliadores realizarão as entrevistas, um será responsável por apresentar o protótipo ao partcipante e guiá-lo durante a simulação, e o outro será responsável por observar a atuação do usuário e realizar anotações que serão utilziadas posteriormente para aprimorar o protótipo.
+    Para coletar os dados do experimento, pelo menos dois avaliadores realizarão as entrevistas, um será responsável por apresentar o protótipo ao partcipante e guiá-lo durante a simulação, e o outro será responsável por observar a atuação do usuário e realizar anotações que serão utilizadas posteriormente para aprimorar o protótipo.
 </p>
 
 ## 6. Consolidação dos resultados
