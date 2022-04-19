@@ -10,11 +10,10 @@ Esse documento busca verificar a documentação dos [Planejamento do Protótipo 
 Número | Pergunta | Resposta
 ---    |   ---    |    ---
 1| O documento possui versionamento?| Sim
-2| O documento está gramaticalmente correto?| Sim
+2| Está descrita as tarefas a serem avaliadas?| Sim
 3| Os dados utilizados possuem fontes? | Sim
 4| Os tópicos correspondem com os conteúdos apresentados? | Não
 5| O termo de consentimento está disponível? | Sim
-6| Está descrita as tarefas a serem avaliadas ?| Sim
 
 ## 3. Conclusão
 
@@ -30,3 +29,4 @@ A verificação mostrou que faltam algumas modificações no artefato pois o con
 Versão |  O que foi inserido? | Data | Autor(es)| Revisor |
 ---- |----- | ---- | ---- | ---- |
 0.1| Criação do documento | 05/04/2022| [Alan Marques Sousa](https://github.com/alan-ms) | [Arthur Alves de Matos](https://github.com/Arthur-Gaudium) |
+0.2| Correções do documento | 19/04/2022| [Vinícius Roriz](https://github.com/viniciusroriz) | [Arthur Alves de Matos](https://github.com/Arthur-Gaudium) |
