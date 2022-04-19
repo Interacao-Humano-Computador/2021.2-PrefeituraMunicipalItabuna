@@ -10,47 +10,49 @@ A entrevista foi realizada de maneira remota, através da plataforma Teams, e os
 
 ## 3. Resultados
 
-### Entrevista 1 (nome):
+### Entrevista 1 (Emerson):
 
 <b>Tarefa: Buscar a página de notícias</b>
 
-Número | Problema/Sugestão
+|Número | Problema/Sugestão
 | - | - |
-1 | 
-  
+|1 | Nenhum
+
 <b>Tarefa: Acessar a página da secretaria da Educação</b>
 
-Número | Problema/Sugestão
+|Número | Problema/Sugestão
 | - | - |
-1 | 
+|1 | Nenhum
 
 <b>Tarefa: Acessar um serviço externo da prefeitura</b>
 
-Número | Problema/Sugestão
+|Número | Problema/Sugestão
 | - | - |
-1 | 
+|1 | Nenhum
 
-### Entrevista 2 (nome):
+### Entrevista 2 (Marcos):
 
 <b>Tarefa: Buscar a página de notícias</b>
 
-Número | Problema/Sugestão
+|Número | Problema/Sugestão
 | - | - |
-1 | 
-  
+|1 | Alterar a posição da notícia em destaque para o meio da tela
+
 <b>Tarefa: Acessar a página da secretaria da Educação</b>
 
-Número | Problema/Sugestão
+|Número | Problema/Sugestão
 | - | - |
-1 | 
+|1 | Adicionar uma imagem de fundo para os itens do menu
 
 <b>Tarefa: Acessar um serviço externo da prefeitura</b>
 
-Número | Problema/Sugestão
+| Número | Problema/Sugestão |
 | - | - |
-1 | 
+| 1 | Notícias da prefeitura não seguem o mesmo padrão da página inicial, onde uma tem destaque |
 
 ## 4. Conclusão
+
+Foi concluído que o protótipo de baixa fidelidade está satisfatório, com poucas ou nenhuma sugestões recebidas por entrevistado. 
 
 ## 5. Referência Bibliográfica
     Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação
@@ -60,3 +62,4 @@ Número | Problema/Sugestão
 Versão |  O que foi inserido? | Data | Autor(es)| Revisor |
 ---- |----- | ---- | ---- | ---- |
 0.1| Criação do documento | 11/04/2022| [Vinícius Roriz](https://github.com/viniciusroriz) e [Caio Santos](https://github.com/caiobsantos) | [](https://github.com/) |
+0.2| Adiciona seções 3 e 4 | 17/04/2022 | [Vinícius Roriz](https://github.com/viniciusroriz)| [Caio Santos](https://github.com/caiobsantos) |
