@@ -27,13 +27,13 @@
 - [Planejamento da Avaliação do Protótipo de Baixa Fidelidade](./design-avaliacao-desenvolvimento/nivel-2/planejamento-avaliacao-prototipo-papel.md)
 - [Termo de Consentimento - Protótipo Baixa Fidelidade](./design-avaliacao-desenvolvimento/nivel-2/termo-de-consentimento.md)
 - [Entrevistas - Protótipo Baixa Fidelidade](./design-avaliacao-desenvolvimento/nivel-2/entrevistas.md)
-- [Relato dos resultados - Protótipo Baixa Fidelidade](./design-avaliacao-desenvolvimento/nivel-2/relato-resultados.md)
+- [Avaliação - Protótipo Baixa Fidelidade](./design-avaliacao-desenvolvimento/nivel-2/avaliacao-prototipo-baixa-fidelidade.md)
 
 - Nível 3
 - [Protótipo de Alta Fidelidade](./design-avaliacao-desenvolvimento/nivel-3/prototipo-alta.md)
 - [Planejamento da Avaliação do Protótipo de Alta Fidelidade](./design-avaliacao-desenvolvimento/nivel-3/planejamento-avaliacao-prototipo-alta-fidelidade.md)
 - [Termo de Consetimento - Protótipo Alta Fidelidade](./design-avaliacao-desenvolvimento/nivel-3/termo-de-consentimento-prototipo-alta-fidelidade.md)
-
+- [Avaliação - Protótipo Alta Fidelidade](./design-avaliacao-desenvolvimento/nivel-3/avaliacao-prototipo-alta-fidelidade.md.md)
 - Apresentações
 
 - [Apresentações](/apresentacoes/apresentacoes.md)

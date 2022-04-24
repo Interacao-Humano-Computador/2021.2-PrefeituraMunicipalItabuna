@@ -1,9 +1,9 @@
-# Relato da avaliação do Protótipo de baixa fidelidade
+# Avaliação do Protótipo de baixa fidelidade
 
 ## 1. Introdução
 Prótipo de baixa fidelidade é uma simulação de usabilidade de baixa nível das tarefa de um sistema e pode identificar problemas de usabilidade antes mesmo de construir uma solução de IHC. Nesse tipo de protótipo não se observa o design gráfico do sistema e sim as funcionalidades do mesmo.
 
-## 2. Objetivos
+## 2. Objetivo
 Neste documento serão relatados os resultados obtidos na avaliação do Protótipo de baixa fidelidade. O método escolhido para a avaliação foi o de entrevista, e os entrevistadores foram Caio Santos e Vinícius Roriz.
 
 A entrevista foi realizada de maneira remota, através da plataforma Teams, e os entrevistados foram pessoas reais escolhidas com base no que foi descrito no documento Perfil de Usuário.
