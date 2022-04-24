@@ -117,7 +117,7 @@ Para isso, será indicado ao usuário seguir os seguintes passos:
     </ol>
 </p>
 
-### 4.1.4 Acesso a conulta e criação de requerimento
+### 4.1.4 Acesso a consulta e criação de requerimento
 <p align='justify'>
 A página da Prefeitura de Itabuna conta com acesso página de criação e consulta de requerimentos em sua interação. Para essa avaliação busca-se entender a navegabilidade proposta, até o ponto de acesso ao formulário de criação e a consulta, de forma a verificar se o usuário consegue compreender os elementos de ajuda dispostos, a forma de uso do formulário de consulta e a seguração nas suas ações. 
    
@@ -177,3 +177,4 @@ Versão |  O que foi inserido? | Data | Autor(es)| Revisor |
 ---- |----- | ---- | ---- | ---- |
 1.0| Criação do documento |11/04/2022| [Caio Santos](https://github.com/caiobsantos) | [Ciro](https://github.com/ciro-c) |
 1.1| Descrição das tarefas |11/04/2022| [Alan Marques](https://github.com/alan-ms) | [Ciro](https://github.com/ciro-c) |
+1.2 | Correção ortográficas | 23/04/2022 | [Alan Marques Sousa](https://github.com/alan-ms) |
