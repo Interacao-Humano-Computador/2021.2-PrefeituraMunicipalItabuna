@@ -39,7 +39,10 @@
 
 #### 3.2.1 Realização das tarefas
 <p align='justify'>
-  Foram dispostas à entrevistada 4 tarefas, descritas na Planejamento da Avaliação do Protótipo. Foi bom no geral, a entrevistada não encontrou problemas significativos no design propotos, relatando somente uma dificuldade no menu por não apresentar um barra de rolagem para indicar que pode fazer a rolagem do menu para encontar as informações sobre as secretárias. 
+  Foram dispostas à entrevistada 4 tarefas, descritas na Planejamento da Avaliação do Protótipo. Foi bom no geral, a entrevistada não encontrou problemas significativos no design propotos, relatando somente uma dificuldade no menu por não apresentar um barra de rolagem para indicar que pode fazer a rolagem do menu para encontar as informações sobre as secretárias.
+</p>
+<p align='justify'>
+  No vídeo foi pedido para ir para a página na secretária de educação, mas a entrevista não soube qual dos links no menu na parte de secretária seria o da secretária de educação, então observase que os nomes das secretárias não estão bem descritas.
 </p>
 
 <p align='justify'>
@@ -48,7 +51,7 @@
 
 #### 3.2.2 Feedback final
 <p align='justify'>
-  A entrevistada não relatou, além do problema da falta da barra de rolagem do menu, algo que poderia ser adicionado ou melhorado no design do protótipo. 
+  A entrevistada não relatou, além do problema da falta da barra de rolagem do menu, algo que poderia ser adicionado ou melhorado no design do protótipo.
 </p>
 
 ### 3.3 Entrevista 3
