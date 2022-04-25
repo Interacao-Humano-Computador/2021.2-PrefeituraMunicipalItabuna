@@ -14,6 +14,12 @@ Número | Pergunta | Resposta
 4| O guia de estilo apresenta características do site da prefeitura?| Sim
 5| Os tópicos correspondem com os conteúdos apresentados?| Sim
 6| O documento segue o padrão estabelecido pelo grupo?| Sim
+7| A disposição de elementos na tela é descrito?| Sim
+8| A tipografia é estabelecida?| Sim
+9| Os tons de cores são definídos?| Sim
+10| Os Elementos de interação estão descritos?| Sim
+11| Os Elementos de ação estão descritos?| Sim
+12| O Vocabulário e os padrões estão descritos?| Sim
 
 ## 3. Conclusão
 

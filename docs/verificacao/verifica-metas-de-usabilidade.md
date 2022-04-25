@@ -13,7 +13,9 @@ Número | Pergunta | Resposta
 3| Existe uma introdução ao conceito abordado?| Sim
 4| Os tópicos correspondem com os conteúdos apresentados?| Sim
 5| O documento segue o padrão estabelecido pelo grupo?| Sim
-5| As metas estão descritas de maneira de simples entendimento ?| Sim
+6| As metas estão descritas de maneira de simples entendimento ?| Sim
+7| As metas de usabilidades a serem focadas no projeto são indicadas | Sim
+8| É indicado o porquê das metas escolhidas como foco? | Sim
 
 ## 3. Conclusão
 

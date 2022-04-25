@@ -49,7 +49,8 @@ Através de alguns critérios definidos por meio da técnica de inspeção, as P
 |5|Há uma antipersona?|✅|
 |6|As personas estão apresentadas de forma clara, com imagem|✅|
 |7|Os tópicos correspondem com os conteúdos apresentados?|✅|
-|8| As imagens estão geradas com direitos autorais.|✅ |
+|8|As imagens estão geradas com direitos autorais.|✅ |
+|9|As personas estão de acordo com os perfis de usuário|✅|
 
 <figcaption><i>Tabela 2: Verificação</i></figcaption>
 

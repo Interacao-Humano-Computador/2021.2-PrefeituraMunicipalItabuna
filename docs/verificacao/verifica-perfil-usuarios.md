@@ -14,6 +14,8 @@ Número | Pergunta | Resposta
 3| Os dados utilizados possuem fontes| Sim
 4| Os tópicos correspondem com os conteúdos apresentados? | Sim
 5| Existe uma conclusão para os dados coletados?| Não
+6| Foi apresentada uma metodologia para definição do perfil | Sim
+7| É apresentada a escolaridade e a faixa etária dos usuário | Sim
 
 ## 3. Conclusão
 
