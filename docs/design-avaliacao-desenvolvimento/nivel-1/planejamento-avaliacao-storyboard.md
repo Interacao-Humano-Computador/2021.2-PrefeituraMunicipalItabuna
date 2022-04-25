@@ -21,7 +21,7 @@
 
 ## 4. Perguntas
 <p align='justify'>
-Serão realizadas as seguintes perguntas para avaliação do storyboard:
+As perguntas para avaliação do storyboard foram decididas com a ajuda do framework DECIDE
 </p>
 
 ### Storyboard 1 e 2
@@ -55,6 +55,7 @@ O documento relatando de resultados da avaliação deve conter o seguinte:
 Versão |  O que foi inserido? | Data | Autor(es)| Revisor |
 ---- |----- | ---- | ---- | ---- |
 1.0| Elaboração do documento | 16/03/2022 | [Alan Marques](https://github.com/alan-ms) | [Vinicius Lima](https://github.com/vinelime) |
-1.1| Correção de formatação e inserção da conclusão | 28/03/2022 | [Alan Marques](https://github.com/alan-ms) | [Ciro](https://github.com/ciro-c) |
+1.1| Correção de formatação e inserção da conclusão | 28/03/2022 | [Alan Marques](https://github.com/alan-ms) |  |
 1.2| Altera o método para inspeção | 28/03/2022| [Vinicius Roriz](https://github.com/viniciusroriz)|[Caio Santos](https://github.com/caiobsantos)|
+1.3| Altera para incluir o framework | 28/03/2022| [Ciro](https://github.com/ciro-c)| |
 
