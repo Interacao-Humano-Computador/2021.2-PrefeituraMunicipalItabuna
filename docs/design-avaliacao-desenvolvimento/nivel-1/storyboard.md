@@ -74,4 +74,4 @@ Versão |  O que foi inserido? | Data | Autor(es)| Revisor |
 1.2| Adição da metodologia e conclusão|15/03/2022| [Caio Santos](https://github.com/caiobsantos) | [Alan Marques](https://github.com/alan-ms) |
 1.3| Adição de mais storyboards|15/03/2022| [Caio Santos](https://github.com/caiobsantos) | [Alan Marques](https://github.com/alan-ms) |
 1.4| Adição de linkagem entre documentos|16/03/2022| [Caio Santos](https://github.com/caiobsantos) | [Alan Marques](https://github.com/alan-ms) |
-1.5| Adição das tabelas de tarefas|25/04/2022|  [Ciro](https://github.com/ciro-c) |  |
+1.5| Adição das tabelas de tarefas|25/04/2022|  [Ciro](https://github.com/ciro-c) | [Alan Marques](https://github.com/alan-ms) |

@@ -32,7 +32,9 @@
 </p>
 
 ### 3.2 Entrevista 2 - Amanda Marques Sousa
+<p align='center'>
   <iframe width="560" height="315" src="https://www.youtube.com/embed/NobpJd-_7tg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
   <p align='justify'>
     A entrevista foi realizada com a estudante Amanda Marques Sousa de 23 anos. Seu perfil, apesar de não ser completamente coerente com o perfil de usuário traz a visão de uma pessoa que na sua idade poderia a qualquer momento executar essas atividades.
   </p>
@@ -55,7 +57,9 @@
 </p>
 
 ### 3.3 Entrevista 3 - Victor Orfeu
+<p align='center'>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/y42YfnUiDMw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
 <p align='justify'>
     A entrevista foi realizada com o estudante Victor Orfeu de 21 anos. Seu perfil é o de jovem acostumado com páginas web e suas convenções, o que o torna capaz de prover um bom feedback.
 </p>
@@ -107,6 +111,6 @@
 Versão |  O que foi inserido? | Data | Autor(es)| Revisor
 ---- |----- | ---- | ---- | ----
 1.0 | Criação do documento, introdução e objetivo |23/04/2022| [Alan Marques](https://github.com/alan-ms) | [Arthur Alves de Matos](https://github.com/Arthur-Gaudium)
-2.0 | Adição da entrevista Ana Clara C. Oliveira |22/04/2022| [Arthur Alves de Matos](https://github.com/Arthur-Gaudium) | [Alan Marques](https://github.com/alan-ms)
-3.0 | Adição da entrevista Amanda Marques Sousa |25/04/2022| [Alan Marques](https://github.com/alan-ms) | [Vinicius Roriz](https://github.com/viniciusroriz)
-4.0 | Adição da entrevista Victor Orfeu |25/04/2022| [Vinicius Roriz](https://github.com/viniciusroriz) | [Caio Santos](https://github.com/caiobsantos)
+1.1 | Adição da entrevista Ana Clara C. Oliveira |22/04/2022| [Arthur Alves de Matos](https://github.com/Arthur-Gaudium) | [Alan Marques](https://github.com/alan-ms)
+1.2 | Adição da entrevista Amanda Marques Sousa |25/04/2022| [Alan Marques](https://github.com/alan-ms) | [Arthur Alves de Matos](https://github.com/Arthur-Gaudium)
+1.3 | Adição da entrevista Victor Orfeu e conclusão |25/04/2022| [Vinicius Roriz](https://github.com/viniciusroriz) | [Alan Marques](https://github.com/alan-ms)

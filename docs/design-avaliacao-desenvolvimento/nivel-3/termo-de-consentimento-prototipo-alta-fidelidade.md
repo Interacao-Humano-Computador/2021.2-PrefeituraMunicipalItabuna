@@ -12,3 +12,9 @@ De posse dessas informações, gostaríamos que você confirmasse sua disponibil
 
 - Sim, dou meu consentimento para a realização.
 - Não dou meu consentimento para a realização.
+
+## Versionamento
+Versão |  O que foi inserido? | Data | Autor(es) | Revisor
+---- |----- | ---- | ---- | ----
+1.0 | Criação do documento |11/04/2022| [Alan Marques](https://github.com/alan-ms) | [Arthur Matos](https://github.com/Arthur-Gaudium)
+1.1 | Tabela de Versionamento |11/04/2022| [Alan Marques](https://github.com/alan-ms) | [Arthur Matos](https://github.com/Arthur-Gaudium)
