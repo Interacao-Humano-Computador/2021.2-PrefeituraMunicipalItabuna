@@ -23,7 +23,15 @@
 
 ## 4. Storyboards
 
-### 4.1 Realização de uma manifestação
+### 4.1 Tarefas
+
+Storyboard| Tarefa
+---|---
+1|Conclusão de manifestação no site
+2|Procura de uma manifestação no site
+3|Validar notas fiscais eletrônicas
+4|Validar notas fiscais eletrônicas sem obstaculos
+### 4.2 Realização de uma manifestação
 
 <figure align="center">
     <img src="./assets/imagens/storyboards/manifestacao_sucesso.png">
@@ -37,7 +45,7 @@
 </figure>
 
 
-### 4.2 Validação de NFS-e
+### 4.3 Validação de NFS-e
 
 <figure align="center">
     <img src="./assets/imagens/storyboards/nfse_dificuldade.png">
@@ -66,3 +74,4 @@ Versão |  O que foi inserido? | Data | Autor(es)| Revisor |
 1.2| Adição da metodologia e conclusão|15/03/2022| [Caio Santos](https://github.com/caiobsantos) | [Alan Marques](https://github.com/alan-ms) |
 1.3| Adição de mais storyboards|15/03/2022| [Caio Santos](https://github.com/caiobsantos) | [Alan Marques](https://github.com/alan-ms) |
 1.4| Adição de linkagem entre documentos|16/03/2022| [Caio Santos](https://github.com/caiobsantos) | [Alan Marques](https://github.com/alan-ms) |
+1.5| Adição das tabelas de tarefas|25/04/2022|  [Ciro](https://github.com/ciro-c) |  |
