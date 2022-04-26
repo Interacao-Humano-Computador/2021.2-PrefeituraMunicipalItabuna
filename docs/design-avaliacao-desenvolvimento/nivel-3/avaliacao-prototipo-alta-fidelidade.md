@@ -106,4 +106,4 @@ Versão |  O que foi inserido? | Data | Autor(es)| Revisor
 1.0 | Criação do documento, introdução e objetivo |23/04/2022| [Alan Marques](https://github.com/alan-ms) | [Arthur Alves de Matos](https://github.com/Arthur-Gaudium)
 2.0 | Adição da entrevista Ana Clara C. Oliveira |22/04/2022| [Arthur Alves de Matos](https://github.com/Arthur-Gaudium) | [Alan Marques](https://github.com/alan-ms)
 3.0 | Adição da entrevista Amanda Marques Sousa |25/04/2022| [Alan Marques](https://github.com/alan-ms) | [Vinicius Roriz](https://github.com/viniciusroriz)
-4.0 | Adição da entrevista Victor Orfeu |25/04/2022| [Caio Santos](https://github.com/caiobsantos)
+4.0 | Adição da entrevista Victor Orfeu |25/04/2022| [Vinicius Roriz](https://github.com/viniciusroriz) | [Caio Santos](https://github.com/caiobsantos)
